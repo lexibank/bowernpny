@@ -1,0 +1,3642 @@
+{
+    "by_language": {
+        "bowernpny-adnyamathanha": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 297,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 24,
+                "\ufffd": 297
+            }
+        },
+        "bowernpny-aghutharrnggala": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-alyawarr": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 167,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 14,
+                "\ufffd": 167
+            }
+        },
+        "bowernpny-antekerrepenhe": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 8,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 8
+            }
+        },
+        "bowernpny-arabana": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 13,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 13
+            }
+        },
+        "bowernpny-awabakal": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 52,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 7,
+                "\ufffd": 52
+            }
+        },
+        "bowernpny-badimaya": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 42,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 3,
+                "\ufffd": 42
+            }
+        },
+        "bowernpny-badjiri": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-bandjalang": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 1367,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 162,
+                "\ufffd": 1367
+            }
+        },
+        "bowernpny-batyala": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-bidyaragungabula": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 117,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 10,
+                "\ufffd": 117
+            }
+        },
+        "bowernpny-bilinarra": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-biri": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 58,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 6,
+                "\ufffd": 58
+            }
+        },
+        "bowernpny-birrpayi": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 133,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 11,
+                "\ufffd": 133
+            }
+        },
+        "bowernpny-bularnu": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 8,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 8
+            }
+        },
+        "bowernpny-bunganditj": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 253,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 27,
+                "\ufffd": 253
+            }
+        },
+        "bowernpny-colac": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 475,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 93,
+                "\ufffd": 475
+            }
+        },
+        "bowernpny-darkinyung": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 43,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 3,
+                "\ufffd": 43
+            }
+        },
+        "bowernpny-dhangu": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-dharawal": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 68,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 6,
+                "\ufffd": 68
+            }
+        },
+        "bowernpny-dharuk": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 69,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 7,
+                "\ufffd": 69
+            }
+        },
+        "bowernpny-dharumbal": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 42,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 4,
+                "\ufffd": 42
+            }
+        },
+        "bowernpny-dhayyi": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 10,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 10
+            }
+        },
+        "bowernpny-dhudhuroa": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 76,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 6,
+                "\ufffd": 76
+            }
+        },
+        "bowernpny-dhurga": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 18,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 2,
+                "\ufffd": 18
+            }
+        },
+        "bowernpny-dhuwal": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 10,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 10
+            }
+        },
+        "bowernpny-dhuwala": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-diyari": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 19,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 2,
+                "\ufffd": 19
+            }
+        },
+        "bowernpny-djabugay": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 242,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 20,
+                "\ufffd": 242
+            }
+        },
+        "bowernpny-djambarrpuyngu": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 10,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 10
+            }
+        },
+        "bowernpny-djapu": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 10,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 10
+            }
+        },
+        "bowernpny-djinang": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 283,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 21,
+                "\ufffd": 283
+            }
+        },
+        "bowernpny-durubul": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-duungidjawu": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 14,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 14
+            }
+        },
+        "bowernpny-dyirbal": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-flindersisland": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-gairi": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-gamilaraay": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 57,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 6,
+                "\ufffd": 57
+            }
+        },
+        "bowernpny-gangulu": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 74,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 7,
+                "\ufffd": 74
+            }
+        },
+        "bowernpny-garlali": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 86,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 7,
+                "\ufffd": 86
+            }
+        },
+        "bowernpny-goorenggooreng": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-gudjal": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 67,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 7,
+                "\ufffd": 67
+            }
+        },
+        "bowernpny-gumatj": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-gumbaynggir": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 30,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 2,
+                "\ufffd": 30
+            }
+        },
+        "bowernpny-gunditjmara": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 150,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 14,
+                "\ufffd": 150
+            }
+        },
+        "bowernpny-gundungurra": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 272,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 29,
+                "\ufffd": 272
+            }
+        },
+        "bowernpny-gunggari": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 68,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 8,
+                "\ufffd": 68
+            }
+        },
+        "bowernpny-gunya": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 41,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 4,
+                "\ufffd": 41
+            }
+        },
+        "bowernpny-gupapuyngu": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-gurindji": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 971,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 71,
+                "\ufffd": 971
+            }
+        },
+        "bowernpny-guuguyimidhirr": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 107,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 9,
+                "\ufffd": 107
+            }
+        },
+        "bowernpny-guwa": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 21,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 2,
+                "\ufffd": 21
+            }
+        },
+        "bowernpny-guyani": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-iyora": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 89,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 8,
+                "\ufffd": 89
+            }
+        },
+        "bowernpny-jaru": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 670,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 73,
+                "\ufffd": 670
+            }
+        },
+        "bowernpny-jarumcc": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 180,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 21,
+                "\ufffd": 180
+            }
+        },
+        "bowernpny-jiwarli": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 12,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 12
+            }
+        },
+        "bowernpny-jiwarliny": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 634,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 52,
+                "\ufffd": 634
+            }
+        },
+        "bowernpny-kaanju": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-kalkatungu": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 177,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 12,
+                "\ufffd": 177
+            }
+        },
+        "bowernpny-kamilaroi": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 46,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 5,
+                "\ufffd": 46
+            }
+        },
+        "bowernpny-karajarri": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 505,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 50,
+                "\ufffd": 505
+            }
+        },
+        "bowernpny-karajarrinw": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 281,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 27,
+                "\ufffd": 281
+            }
+        },
+        "bowernpny-kariyarra": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-karree": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 50,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 3,
+                "\ufffd": 50
+            }
+        },
+        "bowernpny-kartujarra": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-karuwali": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 13,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 13
+            }
+        },
+        "bowernpny-katthang": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 204,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 18,
+                "\ufffd": 204
+            }
+        },
+        "bowernpny-kaurna": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 47,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 4,
+                "\ufffd": 47
+            }
+        },
+        "bowernpny-keramin": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 41,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 5,
+                "\ufffd": 41
+            }
+        },
+        "bowernpny-kugunganhcara": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 748,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 80,
+                "\ufffd": 748
+            }
+        },
+        "bowernpny-kukatj": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 175,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 17,
+                "\ufffd": 175
+            }
+        },
+        "bowernpny-kukatja": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 134,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 13,
+                "\ufffd": 134
+            }
+        },
+        "bowernpny-kukuyalanji": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 25,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 2,
+                "\ufffd": 25
+            }
+        },
+        "bowernpny-kukuyalanjicurr": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-kungadutyi": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 157,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 14,
+                "\ufffd": 157
+            }
+        },
+        "bowernpny-kungkari": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 52,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 4,
+                "\ufffd": 52
+            }
+        },
+        "bowernpny-kurnu": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-kurrama": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-kurtjar": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 494,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 42,
+                "\ufffd": 494
+            }
+        },
+        "bowernpny-kuukuyau": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 64,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 6,
+                "\ufffd": 64
+            }
+        },
+        "bowernpny-linngithigh": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 73,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 8,
+                "\ufffd": 73
+            }
+        },
+        "bowernpny-mabuiag": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 15,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 2,
+                "\ufffd": 15
+            }
+        },
+        "bowernpny-malgana": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 10,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 10
+            }
+        },
+        "bowernpny-malngin": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 271,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 20,
+                "\ufffd": 271
+            }
+        },
+        "bowernpny-malyangapa": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 793,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 76,
+                "\ufffd": 793
+            }
+        },
+        "bowernpny-mangalamck": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 138,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 12,
+                "\ufffd": 138
+            }
+        },
+        "bowernpny-mangalanw": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 158,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 18,
+                "\ufffd": 158
+            }
+        },
+        "bowernpny-margany": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 36,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 4,
+                "\ufffd": 36
+            }
+        },
+        "bowernpny-martuwangka": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-maryriverandbunyabunyacountry": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 227,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 19,
+                "\ufffd": 227
+            }
+        },
+        "bowernpny-mathimathi": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 12,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 12
+            }
+        },
+        "bowernpny-mayikulan": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-mayikutuna": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 32,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 2,
+                "\ufffd": 32
+            }
+        },
+        "bowernpny-mayithakurti": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 69,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 5,
+                "\ufffd": 69
+            }
+        },
+        "bowernpny-mayiyapi": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 29,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 3,
+                "\ufffd": 29
+            }
+        },
+        "bowernpny-mbabaram": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-mbakwithi": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 10,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 10
+            }
+        },
+        "bowernpny-minjungbal": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 11,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 11
+            }
+        },
+        "bowernpny-mirniny": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 27,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 2,
+                "\ufffd": 27
+            }
+        },
+        "bowernpny-mithaka": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 22,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 2,
+                "\ufffd": 22
+            }
+        },
+        "bowernpny-mountfreelingdiyari": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 17,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 17
+            }
+        },
+        "bowernpny-mudburra": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 50,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 5,
+                "\ufffd": 50
+            }
+        },
+        "bowernpny-mudburramcc": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 219,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 23,
+                "\ufffd": 219
+            }
+        },
+        "bowernpny-muruwari": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 52,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 6,
+                "\ufffd": 52
+            }
+        },
+        "bowernpny-narrungga": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 138,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 12,
+                "\ufffd": 138
+            }
+        },
+        "bowernpny-ngaanyatjarra": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 58,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 5,
+                "\ufffd": 58
+            }
+        },
+        "bowernpny-ngadjumaya": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 174,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 16,
+                "\ufffd": 174
+            }
+        },
+        "bowernpny-ngadjuri": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-ngaiawang": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 35,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 3,
+                "\ufffd": 35
+            }
+        },
+        "bowernpny-ngamini": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 28,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 2,
+                "\ufffd": 28
+            }
+        },
+        "bowernpny-ngardily": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-ngarigu": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 19,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 2,
+                "\ufffd": 19
+            }
+        },
+        "bowernpny-ngarinyman": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 469,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 44,
+                "\ufffd": 469
+            }
+        },
+        "bowernpny-ngarla": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 209,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 20,
+                "\ufffd": 209
+            }
+        },
+        "bowernpny-ngarluma": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 116,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 11,
+                "\ufffd": 116
+            }
+        },
+        "bowernpny-ngarrindjeri": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 90,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 9,
+                "\ufffd": 90
+            }
+        },
+        "bowernpny-ngawun": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-nggoimwoi": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 107,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 6,
+                "\ufffd": 107
+            }
+        },
+        "bowernpny-ngiyambaa": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 28,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 2,
+                "\ufffd": 28
+            }
+        },
+        "bowernpny-ngunawal": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 49,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 4,
+                "\ufffd": 49
+            }
+        },
+        "bowernpny-nhanta": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 17,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 17
+            }
+        },
+        "bowernpny-nhirrpi": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 51,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 4,
+                "\ufffd": 51
+            }
+        },
+        "bowernpny-northernmangarla": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-northernnyangumarta": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 472,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 38,
+                "\ufffd": 472
+            }
+        },
+        "bowernpny-nyamal": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 23,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 2,
+                "\ufffd": 23
+            }
+        },
+        "bowernpny-nyangumarta": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 186,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 16,
+                "\ufffd": 186
+            }
+        },
+        "bowernpny-nyungar": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 209,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 21,
+                "\ufffd": 209
+            }
+        },
+        "bowernpny-paakantyi": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 10,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 10
+            }
+        },
+        "bowernpny-pakanh": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 140,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 14,
+                "\ufffd": 140
+            }
+        },
+        "bowernpny-pallanganmiddang": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-panyjima": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-parnkala": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 111,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 12,
+                "\ufffd": 111
+            }
+        },
+        "bowernpny-payungu": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-piangil": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 18,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 2,
+                "\ufffd": 18
+            }
+        },
+        "bowernpny-pintupiluritja": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 608,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 43,
+                "\ufffd": 608
+            }
+        },
+        "bowernpny-pirriya": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-pitjantjatjara": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 61,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 4,
+                "\ufffd": 61
+            }
+        },
+        "bowernpny-pittapitta": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 39,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 3,
+                "\ufffd": 39
+            }
+        },
+        "bowernpny-rirratjingu": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 7,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 7
+            }
+        },
+        "bowernpny-ritharrngu": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-southernwalmajarri": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-thalanyji": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-tharrgari": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-umpila": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-wajarri": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 33,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 3,
+                "\ufffd": 33
+            }
+        },
+        "bowernpny-wakaya": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 14,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 14
+            }
+        },
+        "bowernpny-walmajarribilliluna": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-walmajarrihr": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 20,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 2,
+                "\ufffd": 20
+            }
+        },
+        "bowernpny-walmajarrinw": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 64,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 7,
+                "\ufffd": 64
+            }
+        },
+        "bowernpny-wangkangurru": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-wangkatja": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 81,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 6,
+                "\ufffd": 81
+            }
+        },
+        "bowernpny-wangkayutyuru": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 21,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 2,
+                "\ufffd": 21
+            }
+        },
+        "bowernpny-wangkumara": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-wangkumaramcdwur": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-wardandi": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 209,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 20,
+                "\ufffd": 209
+            }
+        },
+        "bowernpny-wargamay": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-warlmanpa": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 19,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 2,
+                "\ufffd": 19
+            }
+        },
+        "bowernpny-warlpiri": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 68,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 5,
+                "\ufffd": 68
+            }
+        },
+        "bowernpny-warluwarra": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-warnman": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 95,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 6,
+                "\ufffd": 95
+            }
+        },
+        "bowernpny-warriyangga": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-warumungu": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 199,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 15,
+                "\ufffd": 199
+            }
+        },
+        "bowernpny-warungu": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 16,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 16
+            }
+        },
+        "bowernpny-wathawurrung": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 138,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 12,
+                "\ufffd": 138
+            }
+        },
+        "bowernpny-wathiwathi": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 44,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 3,
+                "\ufffd": 44
+            }
+        },
+        "bowernpny-watjuk": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 11,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 11
+            }
+        },
+        "bowernpny-westernarrarnta": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 209,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 17,
+                "\ufffd": 209
+            }
+        },
+        "bowernpny-wikmungkan": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 523,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 57,
+                "\ufffd": 523
+            }
+        },
+        "bowernpny-wiradjuri": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 33,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 3,
+                "\ufffd": 33
+            }
+        },
+        "bowernpny-wirangu": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-woiwurrung": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 134,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 12,
+                "\ufffd": 134
+            }
+        },
+        "bowernpny-wulguru": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 19,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 3,
+                "\ufffd": 19
+            }
+        },
+        "bowernpny-yabulayabula": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 11,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 11
+            }
+        },
+        "bowernpny-yagara": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 12,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 12
+            }
+        },
+        "bowernpny-yalarnnga": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 32,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 2,
+                "\ufffd": 32
+            }
+        },
+        "bowernpny-yandruwandha": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 189,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 16,
+                "\ufffd": 189
+            }
+        },
+        "bowernpny-yannhangu": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 15,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 15
+            }
+        },
+        "bowernpny-yanyuwa": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-yarluyandi": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 41,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 4,
+                "\ufffd": 41
+            }
+        },
+        "bowernpny-yawarrawarrka": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-yidiny": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-yindjibarndi": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-yindjilandji": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 37,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 4,
+                "\ufffd": 37
+            }
+        },
+        "bowernpny-yiningay": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 8,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 1,
+                "\ufffd": 8
+            }
+        },
+        "bowernpny-yirandali": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 40,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 3,
+                "\ufffd": 40
+            }
+        },
+        "bowernpny-yortayorta": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 66,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 5,
+                "\ufffd": 66
+            }
+        },
+        "bowernpny-yugambeh": {
+            "clpa_errors": [],
+            "general_errors": 0,
+            "lingpy_errors": [],
+            "replacements": {},
+            "segments": {}
+        },
+        "bowernpny-yulparija": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 148,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 11,
+                "\ufffd": 148
+            }
+        },
+        "bowernpny-yuwaalaraay": {
+            "clpa_errors": [
+                "\ufffd"
+            ],
+            "general_errors": 78,
+            "lingpy_errors": [
+                "\ufffd"
+            ],
+            "replacements": {},
+            "segments": {
+                "_": 7,
+                "\ufffd": 78
+            }
+        }
+    },
+    "stats": {
+        "bad_words": [
+            [
+                "bowernpny-1033",
+                "bowernpny-malyangapa",
+                "bowernpny-ash",
+                "Mal: thilta",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1111",
+                "bowernpny-wikmungkan",
+                "bowernpny-ash",
+                "thum kurk",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1172",
+                "bowernpny-ngarinyman",
+                "bowernpny-at",
+                "la \u014bka ka tya kula",
+                "<s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1181",
+                "bowernpny-nyungar",
+                "bowernpny-at",
+                "yearunger yuckie",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1195",
+                "bowernpny-wardandi",
+                "bowernpny-at",
+                "jiran-dja jagi",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1216",
+                "bowernpny-bandjalang",
+                "bowernpny-back",
+                "mubar Y",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1217",
+                "bowernpny-bandjalang",
+                "bowernpny-back",
+                "muli G",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1219",
+                "bowernpny-bandjalang",
+                "bowernpny-back",
+                "mulih C",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1220",
+                "bowernpny-bandjalang",
+                "bowernpny-back",
+                "girar We",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1242",
+                "bowernpny-djinang",
+                "bowernpny-back",
+                "burr gu\u014bi",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1277",
+                "bowernpny-kugunganhcara",
+                "bowernpny-back",
+                "kiga ngangka",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1293",
+                "bowernpny-malyangapa",
+                "bowernpny-back",
+                "Mal: tharna",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-13",
+                "bowernpny-bunganditj",
+                "bowernpny-above",
+                "kan marna",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1337",
+                "bowernpny-pakanh",
+                "bowernpny-back",
+                "pik ongko",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1442",
+                "bowernpny-jaru",
+                "bowernpny-badevil",
+                "ngawu garri garri",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1456",
+                "bowernpny-kukatj",
+                "bowernpny-badevil",
+                "pirley na-",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1457",
+                "bowernpny-kukatj",
+                "bowernpny-badevil",
+                "pirley na-",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1468",
+                "bowernpny-kuukuyau",
+                "bowernpny-badevil",
+                "miil'a wu'u",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1473",
+                "bowernpny-malyangapa",
+                "bowernpny-badevil",
+                "Mal: wanju",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-151",
+                "bowernpny-birrpayi",
+                "bowernpny-again",
+                "Gore Gore",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1577",
+                "bowernpny-yarluyandi",
+                "bowernpny-badevil",
+                "var madna",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1590",
+                "bowernpny-alyawarr",
+                "bowernpny-belly",
+                "atna alta",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1694",
+                "bowernpny-mountfreelingdiyari",
+                "bowernpny-belly",
+                "mundra koodnabidie",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1716",
+                "bowernpny-northernnyangumarta",
+                "bowernpny-belly",
+                "ngunta pini-",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1932",
+                "bowernpny-wikmungkan",
+                "bowernpny-below",
+                "nan pek",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-1996",
+                "bowernpny-gundungurra",
+                "bowernpny-big",
+                "bugarrabang gudba",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2159",
+                "bowernpny-alyawarr",
+                "bowernpny-bird",
+                "thip ingwerek-ingwer",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2165",
+                "bowernpny-bandjalang",
+                "bowernpny-bird",
+                "nunzaynbil Y",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2166",
+                "bowernpny-bandjalang",
+                "bowernpny-bird",
+                "yirihyn G",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2167",
+                "bowernpny-bandjalang",
+                "bowernpny-bird",
+                "yiririhyn C",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2169",
+                "bowernpny-bandjalang",
+                "bowernpny-bird",
+                "marahn C",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2190",
+                "bowernpny-djinang",
+                "bowernpny-bird",
+                "maypal wayki\u1e49ingi",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2220",
+                "bowernpny-kugunganhcara",
+                "bowernpny-bird",
+                "minha ekondo",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2226",
+                "bowernpny-kungadutyi",
+                "bowernpny-bird",
+                "purra kaL",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2230",
+                "bowernpny-kurtjar",
+                "bowernpny-bird",
+                "eeny maark.alim",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-231",
+                "bowernpny-wardandi",
+                "bowernpny-again",
+                "nudag guran",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2314",
+                "bowernpny-westernarrarnta",
+                "bowernpny-bird",
+                "thepa ntjaarra",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2380",
+                "bowernpny-gurindji",
+                "bowernpny-bite",
+                "katurl payanana",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2384",
+                "bowernpny-jaru",
+                "bowernpny-bite",
+                "gin bayana",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-242",
+                "bowernpny-westernarrarnta",
+                "bowernpny-again",
+                "wethe alkwere",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2470",
+                "bowernpny-walmajarrinw",
+                "bowernpny-bite",
+                "ner mano",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2521",
+                "bowernpny-bandjalang",
+                "bowernpny-black",
+                "duhndun Y",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2556",
+                "bowernpny-gunggari",
+                "bowernpny-black",
+                "gubur gubar",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2564",
+                "bowernpny-jaru",
+                "bowernpny-black",
+                "goro goro",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2696",
+                "bowernpny-adnyamathanha",
+                "bowernpny-blood",
+                "arti umarri",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2928",
+                "bowernpny-gurindji",
+                "bowernpny-blow",
+                "pumip manana",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2932",
+                "bowernpny-jaru",
+                "bowernpny-blow",
+                "b\u014d mana",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2935",
+                "bowernpny-jiwarliny",
+                "bowernpny-blow",
+                "Warlu pumanta.",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2938",
+                "bowernpny-karajarri",
+                "bowernpny-blow",
+                "pu janpa",
+                "<s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2939",
+                "bowernpny-karajarrinw",
+                "bowernpny-blow",
+                "b\u014d djana",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2948",
+                "bowernpny-kurtjar",
+                "bowernpny-blow",
+                "weebh malimpi.lk",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2953",
+                "bowernpny-malyangapa",
+                "bowernpny-blow",
+                "Mal: karlka-",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2958",
+                "bowernpny-mudburra",
+                "bowernpny-blow",
+                "bub ma-rru",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2961",
+                "bowernpny-narrungga",
+                "bowernpny-blow",
+                "miya bundula",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-2999",
+                "bowernpny-warumungu",
+                "bowernpny-blow",
+                "talk wangkan",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3053",
+                "bowernpny-kugunganhcara",
+                "bowernpny-fly",
+                "yuku wolo",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3140",
+                "bowernpny-bandjalang",
+                "bowernpny-boilpimple",
+                "ganam ganam",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-32",
+                "bowernpny-gunditjmara",
+                "bowernpny-above",
+                "kunn\u00e6 puur\u00e6",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3235",
+                "bowernpny-wikmungkan",
+                "bowernpny-boilpimple",
+                "wench thaa'",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3256",
+                "bowernpny-alyawarr",
+                "bowernpny-bone",
+                "irrengernt L",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3309",
+                "bowernpny-jarumcc",
+                "bowernpny-bone",
+                "wrist'",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3489",
+                "bowernpny-gunditjmara",
+                "bowernpny-boomerangthrowingstick",
+                "paang geetch",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3506",
+                "bowernpny-karajarrinw",
+                "bowernpny-boomerangthrowingstick",
+                "\u014badju-gora gal\u0323i",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3526",
+                "bowernpny-malyangapa",
+                "bowernpny-boomerangthrowingstick",
+                "Mal: pintarra",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3578",
+                "bowernpny-pintupiluritja",
+                "bowernpny-boomerangthrowingstick",
+                "kali pinantjarra",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3632",
+                "bowernpny-adnyamathanha",
+                "bowernpny-bottomgrindingstone",
+                "wadla vapa",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3644",
+                "bowernpny-jaru",
+                "bowernpny-bottomgrindingstone",
+                "birli bamarr",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3645",
+                "bowernpny-jarumcc",
+                "bowernpny-bottomgrindingstone",
+                "birli bamarr",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3652",
+                "bowernpny-kungadutyi",
+                "bowernpny-bottomgrindingstone",
+                "yandrra tilga-tilgiya",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3655",
+                "bowernpny-malyangapa",
+                "bowernpny-bottomgrindingstone",
+                "Mal: yaltha",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3680",
+                "bowernpny-walmajarrihr",
+                "bowernpny-bottomgrindingstone",
+                "bulga bamar",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3681",
+                "bowernpny-walmajarrinw",
+                "bowernpny-bottomgrindingstone",
+                "bulga bamar",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3688",
+                "bowernpny-warumungu",
+                "bowernpny-bottomgrindingstone",
+                "ngarlikari karnanti",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3690",
+                "bowernpny-yandruwandha",
+                "bowernpny-bottomgrindingstone",
+                "mardra nhiwa",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3691",
+                "bowernpny-yandruwandha",
+                "bowernpny-bottomgrindingstone",
+                "mardra pawa",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3716",
+                "bowernpny-colac",
+                "bowernpny-breast",
+                "ber re gnen nok",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3744",
+                "bowernpny-gundungurra",
+                "bowernpny-breast",
+                "ngumming ngul",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3894",
+                "bowernpny-adnyamathanha",
+                "bowernpny-breathe",
+                "winggu yudhnhi-",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3897",
+                "bowernpny-bandjalang",
+                "bowernpny-breathe",
+                "buhwi bira-",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3898",
+                "bowernpny-bidyaragungabula",
+                "bowernpny-breathe",
+                "buyu munggu",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3903",
+                "bowernpny-djabugay",
+                "bowernpny-breathe",
+                "way-way daba-y",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3908",
+                "bowernpny-gunya",
+                "bowernpny-breathe",
+                "buyu bidyu",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-3910",
+                "bowernpny-gurindji",
+                "bowernpny-breathe",
+                "ngayip manana",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-489",
+                "bowernpny-colac",
+                "bowernpny-ankle",
+                "barn gnen nok",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-491",
+                "bowernpny-dharuk",
+                "bowernpny-ankle",
+                "wa-da wa-da",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-511",
+                "bowernpny-gundungurra",
+                "bowernpny-ankle",
+                "watta watta",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-531",
+                "bowernpny-kugunganhcara",
+                "bowernpny-ankle",
+                "konto mila",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-565",
+                "bowernpny-nggoimwoi",
+                "bowernpny-ankle",
+                "kirrurra djinnung-goobie",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-618",
+                "bowernpny-wikmungkan",
+                "bowernpny-ankle",
+                "tha' kongk",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-621",
+                "bowernpny-woiwurrung",
+                "bowernpny-ankle",
+                "durronggi ganak",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-697",
+                "bowernpny-malyangapa",
+                "bowernpny-ant",
+                "Mal: kathu",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-779",
+                "bowernpny-yirandali",
+                "bowernpny-ant",
+                "kartoo booddera",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-798",
+                "bowernpny-birrpayi",
+                "bowernpny-armpit",
+                "G\u00edttee g\u00edttee",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-801",
+                "bowernpny-colac",
+                "bowernpny-armpit",
+                "kar e gnen ok",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-90",
+                "bowernpny-pakanh",
+                "bowernpny-above",
+                "kaningka above",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-960",
+                "bowernpny-adnyamathanha",
+                "bowernpny-ash",
+                "ardrla imba",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-969",
+                "bowernpny-bandjalang",
+                "bowernpny-ash",
+                "muruhyn G",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-97",
+                "bowernpny-pittapitta",
+                "bowernpny-above",
+                "yakirli ngalpa",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-970",
+                "bowernpny-bandjalang",
+                "bowernpny-ash",
+                "muruyn C",
+                "<s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s>"
+            ],
+            [
+                "bowernpny-974",
+                "bowernpny-birrpayi",
+                "bowernpny-ash",
+                "P. Dtular\u00e1",
+                "<s> \ufffd </s> <s> \ufffd </s> _ <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s> <s> \ufffd </s>"
+            ]
+        ],
+        "bad_words_count": 1630,
+        "clpa_errors": [
+            "\ufffd"
+        ],
+        "general_errors": 19016,
+        "invalid_words": [
+            [
+                "bowernpny-1",
+                "bowernpny-adnyamathanha",
+                "bowernpny-above",
+                "arra"
+            ],
+            [
+                "bowernpny-10",
+                "bowernpny-bidyaragungabula",
+                "bowernpny-above",
+                "ngan-gany"
+            ],
+            [
+                "bowernpny-100",
+                "bowernpny-thalanyji",
+                "bowernpny-above",
+                "kankara"
+            ],
+            [
+                "bowernpny-101",
+                "bowernpny-tharrgari",
+                "bowernpny-above",
+                "yirrara"
+            ],
+            [
+                "bowernpny-102",
+                "bowernpny-umpila",
+                "bowernpny-above",
+                "kani-munu"
+            ],
+            [
+                "bowernpny-103",
+                "bowernpny-wajarri",
+                "bowernpny-above",
+                "marlba"
+            ],
+            [
+                "bowernpny-104",
+                "bowernpny-wakaya",
+                "bowernpny-above",
+                "yupantu"
+            ],
+            [
+                "bowernpny-11",
+                "bowernpny-biri",
+                "bowernpny-above",
+                "\u014barra"
+            ],
+            [
+                "bowernpny-12",
+                "bowernpny-birrpayi",
+                "bowernpny-above",
+                "boo-row-a"
+            ],
+            [
+                "bowernpny-14",
+                "bowernpny-dhangu",
+                "bowernpny-above",
+                "garrwar"
+            ],
+            [
+                "bowernpny-15",
+                "bowernpny-dharawal",
+                "bowernpny-above",
+                "mirir"
+            ],
+            [
+                "bowernpny-16",
+                "bowernpny-dharuk",
+                "bowernpny-above",
+                "burawa"
+            ],
+            [
+                "bowernpny-17",
+                "bowernpny-dhayyi",
+                "bowernpny-above",
+                "garrwar"
+            ],
+            [
+                "bowernpny-18",
+                "bowernpny-dhuwal",
+                "bowernpny-above",
+                "garrwar"
+            ],
+            [
+                "bowernpny-19",
+                "bowernpny-dhuwala",
+                "bowernpny-above",
+                "garrwar"
+            ],
+            [
+                "bowernpny-2",
+                "bowernpny-alyawarr",
+                "bowernpny-above",
+                "err.rul"
+            ],
+            [
+                "bowernpny-20",
+                "bowernpny-diyari",
+                "bowernpny-above",
+                "miri"
+            ],
+            [
+                "bowernpny-21",
+                "bowernpny-djabugay",
+                "bowernpny-above",
+                "wanggar"
+            ],
+            [
+                "bowernpny-22",
+                "bowernpny-djambarrpuyngu",
+                "bowernpny-above",
+                "garrwar"
+            ],
+            [
+                "bowernpny-23",
+                "bowernpny-djapu",
+                "bowernpny-above",
+                "garrwar"
+            ],
+            [
+                "bowernpny-24",
+                "bowernpny-djinang",
+                "bowernpny-above",
+                "gurrgi"
+            ],
+            [
+                "bowernpny-25",
+                "bowernpny-duungidjawu",
+                "bowernpny-above",
+                "ga\u014ba"
+            ],
+            [
+                "bowernpny-26",
+                "bowernpny-dyirbal",
+                "bowernpny-above",
+                "dalbi"
+            ],
+            [
+                "bowernpny-27",
+                "bowernpny-gamilaraay",
+                "bowernpny-above",
+                "\u014burri-ba"
+            ],
+            [
+                "bowernpny-28",
+                "bowernpny-gangulu",
+                "bowernpny-above",
+                "\u014barra"
+            ],
+            [
+                "bowernpny-29",
+                "bowernpny-goorenggooreng",
+                "bowernpny-above",
+                "buri"
+            ],
+            [
+                "bowernpny-3",
+                "bowernpny-alyawarr",
+                "bowernpny-above",
+                "err.ruleng"
+            ],
+            [
+                "bowernpny-30",
+                "bowernpny-gumatj",
+                "bowernpny-above",
+                "garrwar"
+            ],
+            [
+                "bowernpny-31",
+                "bowernpny-gumbaynggir",
+                "bowernpny-above",
+                "waru"
+            ],
+            [
+                "bowernpny-33",
+                "bowernpny-gundungurra",
+                "bowernpny-above",
+                "yurung"
+            ],
+            [
+                "bowernpny-34",
+                "bowernpny-gunggari",
+                "bowernpny-above",
+                "mirramundu"
+            ],
+            [
+                "bowernpny-35",
+                "bowernpny-gupapuyngu",
+                "bowernpny-above",
+                "garrwar"
+            ],
+            [
+                "bowernpny-36",
+                "bowernpny-gurindji",
+                "bowernpny-above",
+                "kankula"
+            ],
+            [
+                "bowernpny-37",
+                "bowernpny-guuguyimidhirr",
+                "bowernpny-above",
+                "wanggaar"
+            ],
+            [
+                "bowernpny-38",
+                "bowernpny-guyani",
+                "bowernpny-above",
+                "kara"
+            ],
+            [
+                "bowernpny-39",
+                "bowernpny-iyora",
+                "bowernpny-above",
+                "bur\u00e1-w\u00e5"
+            ],
+            [
+                "bowernpny-4",
+                "bowernpny-antekerrepenhe",
+                "bowernpny-above",
+                "arretyen"
+            ],
+            [
+                "bowernpny-40",
+                "bowernpny-jaru",
+                "bowernpny-above",
+                "gangani"
+            ],
+            [
+                "bowernpny-41",
+                "bowernpny-jaru",
+                "bowernpny-above",
+                "gangani-mara\u014bo"
+            ],
+            [
+                "bowernpny-42",
+                "bowernpny-jarumcc",
+                "bowernpny-above",
+                "gan.gula"
+            ],
+            [
+                "bowernpny-43",
+                "bowernpny-jiwarli",
+                "bowernpny-above",
+                "yirrara"
+            ],
+            [
+                "bowernpny-44",
+                "bowernpny-kalkatungu",
+                "bowernpny-above",
+                "pirrinha"
+            ],
+            [
+                "bowernpny-45",
+                "bowernpny-kamilaroi",
+                "bowernpny-above",
+                "Ngurriba"
+            ],
+            [
+                "bowernpny-46",
+                "bowernpny-karajarri",
+                "bowernpny-above",
+                "kantingka"
+            ],
+            [
+                "bowernpny-47",
+                "bowernpny-karajarrinw",
+                "bowernpny-above",
+                "gaini"
+            ],
+            [
+                "bowernpny-48",
+                "bowernpny-karree",
+                "bowernpny-above",
+                "U-rong"
+            ],
+            [
+                "bowernpny-49",
+                "bowernpny-kartujarra",
+                "bowernpny-above",
+                "katuwanajanu"
+            ],
+            [
+                "bowernpny-5",
+                "bowernpny-arabana",
+                "bowernpny-above",
+                "arata"
+            ],
+            [
+                "bowernpny-50",
+                "bowernpny-katthang",
+                "bowernpny-above",
+                "Ky-in-goo"
+            ],
+            [
+                "bowernpny-51",
+                "bowernpny-kaurna",
+                "bowernpny-above",
+                "karra"
+            ],
+            [
+                "bowernpny-52",
+                "bowernpny-kukatj",
+                "bowernpny-above",
+                "kirh"
+            ],
+            [
+                "bowernpny-53",
+                "bowernpny-kukatja",
+                "bowernpny-above",
+                "gangara"
+            ],
+            [
+                "bowernpny-54",
+                "bowernpny-kukuyalanji",
+                "bowernpny-above",
+                "wangkar-wangkar"
+            ],
+            [
+                "bowernpny-55",
+                "bowernpny-kurrama",
+                "bowernpny-above",
+                "kankarni"
+            ],
+            [
+                "bowernpny-56",
+                "bowernpny-kurtjar",
+                "bowernpny-above",
+                "ngkaard"
+            ],
+            [
+                "bowernpny-57",
+                "bowernpny-kurtjar",
+                "bowernpny-above",
+                "ngkardiyang"
+            ],
+            [
+                "bowernpny-58",
+                "bowernpny-linngithigh",
+                "bowernpny-above",
+                "mbir"
+            ],
+            [
+                "bowernpny-59",
+                "bowernpny-mabuiag",
+                "bowernpny-above",
+                "gimal"
+            ],
+            [
+                "bowernpny-6",
+                "bowernpny-awabakal",
+                "bowernpny-above",
+                "w\u00e5gga"
+            ],
+            [
+                "bowernpny-60",
+                "bowernpny-malngin",
+                "bowernpny-above",
+                "kankula"
+            ],
+            [
+                "bowernpny-61",
+                "bowernpny-mangalamck",
+                "bowernpny-above",
+                "kankarni"
+            ],
+            [
+                "bowernpny-62",
+                "bowernpny-mangalanw",
+                "bowernpny-above",
+                "gangani"
+            ],
+            [
+                "bowernpny-63",
+                "bowernpny-mangalanw",
+                "bowernpny-above",
+                "gangani-mara\u014bo"
+            ],
+            [
+                "bowernpny-64",
+                "bowernpny-martuwangka",
+                "bowernpny-above",
+                "kanka"
+            ],
+            [
+                "bowernpny-65",
+                "bowernpny-maryriverandbunyabunyacountry",
+                "bowernpny-above",
+                "ba\u2019ritha"
+            ],
+            [
+                "bowernpny-66",
+                "bowernpny-minjungbal",
+                "bowernpny-above",
+                "wayi-ma-ya"
+            ],
+            [
+                "bowernpny-67",
+                "bowernpny-mountfreelingdiyari",
+                "bowernpny-above",
+                "mirrie"
+            ],
+            [
+                "bowernpny-68",
+                "bowernpny-mudburra",
+                "bowernpny-above",
+                "dimbu"
+            ],
+            [
+                "bowernpny-69",
+                "bowernpny-mudburramcc",
+                "bowernpny-above",
+                "kankulu"
+            ],
+            [
+                "bowernpny-7",
+                "bowernpny-badimaya",
+                "bowernpny-above",
+                "garda"
+            ],
+            [
+                "bowernpny-70",
+                "bowernpny-muruwari",
+                "bowernpny-above",
+                "karranta"
+            ],
+            [
+                "bowernpny-71",
+                "bowernpny-nggoimwoi",
+                "bowernpny-above",
+                "nurring"
+            ],
+            [
+                "bowernpny-72",
+                "bowernpny-ngaanyatjarra",
+                "bowernpny-above",
+                "kankararra"
+            ],
+            [
+                "bowernpny-73",
+                "bowernpny-ngadjumaya",
+                "bowernpny-above",
+                "maadu"
+            ],
+            [
+                "bowernpny-74",
+                "bowernpny-ngadjuri",
+                "bowernpny-above",
+                "aru'watung"
+            ],
+            [
+                "bowernpny-75",
+                "bowernpny-ngamini",
+                "bowernpny-above",
+                "kurumu"
+            ],
+            [
+                "bowernpny-76",
+                "bowernpny-ngarigu",
+                "bowernpny-above",
+                "nyalang"
+            ],
+            [
+                "bowernpny-77",
+                "bowernpny-ngarinyman",
+                "bowernpny-above",
+                "dalwirr"
+            ],
+            [
+                "bowernpny-78",
+                "bowernpny-ngarla",
+                "bowernpny-above",
+                "kankara"
+            ],
+            [
+                "bowernpny-79",
+                "bowernpny-ngarluma",
+                "bowernpny-above",
+                "gankanmani"
+            ],
+            [
+                "bowernpny-8",
+                "bowernpny-bandjalang",
+                "bowernpny-above",
+                "way"
+            ],
+            [
+                "bowernpny-80",
+                "bowernpny-ngarrindjeri",
+                "bowernpny-above",
+                "thalwulda"
+            ],
+            [
+                "bowernpny-81",
+                "bowernpny-ngiyambaa",
+                "bowernpny-above",
+                "Nunaowa"
+            ],
+            [
+                "bowernpny-82",
+                "bowernpny-ngunawal",
+                "bowernpny-above",
+                "yurung"
+            ],
+            [
+                "bowernpny-83",
+                "bowernpny-nhanta",
+                "bowernpny-above",
+                "irrangkaq"
+            ],
+            [
+                "bowernpny-84",
+                "bowernpny-northernmangarla",
+                "bowernpny-above",
+                "kankarningu"
+            ],
+            [
+                "bowernpny-85",
+                "bowernpny-northernnyangumarta",
+                "bowernpny-above",
+                "kanka"
+            ],
+            [
+                "bowernpny-86",
+                "bowernpny-nyamal",
+                "bowernpny-above",
+                "kankarla"
+            ],
+            [
+                "bowernpny-87",
+                "bowernpny-nyangumarta",
+                "bowernpny-above",
+                "kanka"
+            ],
+            [
+                "bowernpny-88",
+                "bowernpny-nyungar",
+                "bowernpny-above",
+                "yearer"
+            ],
+            [
+                "bowernpny-89",
+                "bowernpny-pakanh",
+                "bowernpny-above",
+                "katningka"
+            ],
+            [
+                "bowernpny-9",
+                "bowernpny-batyala",
+                "bowernpny-above",
+                "mundun-ni"
+            ],
+            [
+                "bowernpny-91",
+                "bowernpny-panyjima",
+                "bowernpny-above",
+                "kankala"
+            ],
+            [
+                "bowernpny-92",
+                "bowernpny-parnkala",
+                "bowernpny-above",
+                "kakkannara"
+            ],
+            [
+                "bowernpny-93",
+                "bowernpny-payungu",
+                "bowernpny-above",
+                "kankara"
+            ],
+            [
+                "bowernpny-94",
+                "bowernpny-pintupiluritja",
+                "bowernpny-above",
+                "katu"
+            ],
+            [
+                "bowernpny-95",
+                "bowernpny-pintupiluritja",
+                "bowernpny-above",
+                "kankarra"
+            ],
+            [
+                "bowernpny-96",
+                "bowernpny-pitjantjatjara",
+                "bowernpny-above",
+                "katu"
+            ],
+            [
+                "bowernpny-98",
+                "bowernpny-rirratjingu",
+                "bowernpny-above",
+                "garramat"
+            ],
+            [
+                "bowernpny-99",
+                "bowernpny-ritharrngu",
+                "bowernpny-above",
+                "garrwar"
+            ]
+        ],
+        "invalid_words_count": 46208,
+        "inventory_size": 1.484210526315792,
+        "lingpy_errors": [
+            "\ufffd"
+        ],
+        "replacements": {},
+        "segments": {
+            "_": 1804,
+            "\ufffd": 19016
+        }
+    }
+}
