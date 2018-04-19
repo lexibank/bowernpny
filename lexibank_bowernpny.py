@@ -71,6 +71,7 @@ class Dataset(BaseDataset):
         concepticon.update({k:concepticon[v] for k, v in equivalent_concepts.items()})
 
         with self.cldf as ds:
+            ds.add_sources(*self.raw.read_bib())
             # add languages to dataset and build mapping
             for lang in self.languages:
                 # add to dataset
