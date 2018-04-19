@@ -77,15 +77,15 @@ class Dataset(BaseDataset):
                 # add to dataset
                 ds.add_language(
                     ID=lang['NAME'],
-                    glottocode=lang['GLOTTOCODE'],
-                    name=lang['GLOTTOLOG_NAME'])
+                    Glottocode=lang['GLOTTOCODE'],
+                    Name=lang['GLOTTOLOG_NAME'])
 
             # add concepts to dataset
             for concept in self.concepts:
                 ds.add_concept(
                     ID=concept['ENGLISH'],
-                    conceptset=concept['CONCEPTICON_ID'],
-                    gloss=concept['CONCEPTICON_GLOSS'])
+                    Concepticon_ID=concept['CONCEPTICON_ID'],
+                    Name=concept['CONCEPTICON_GLOSS'])
 
             # read source file, skipping over header ([1:])
             for i, row in enumerate(self.raw.read_tsv("bowernpny.tsv", quoting=csv.QUOTE_NONE)[1:]):
@@ -174,8 +174,8 @@ class Dataset(BaseDataset):
                             ds.add_cognate(
                                 lexeme=row,
                                 Cognateset_ID=cognate_set_id,
-                                Cognate_source=['Bowern2012'],
-                                Alignment_source='List2014e')
+                                Source=['Bowern2012'],
+                                Alignment_Source='List2014e')
 
             ds.align_cognates()
 
