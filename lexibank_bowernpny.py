@@ -2,10 +2,10 @@
 from __future__ import unicode_literals, print_function
 from clldutils.path import Path
 from clldutils.text import split_text, strip_brackets
-from clldutils.path import Path
+from clldutils.misc import slug
 from pylexibank.dataset import Metadata
 from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.lingpy_util import getEvoBibAsBibtex
+from pylexibank.util import getEvoBibAsBibtex
 
 import csv
 
@@ -76,14 +76,14 @@ class Dataset(BaseDataset):
             for lang in self.languages:
                 # add to dataset
                 ds.add_language(
-                    ID=lang['NAME'],
+                    ID=slug(lang['NAME']),
                     Glottocode=lang['GLOTTOCODE'],
                     Name=lang['GLOTTOLOG_NAME'])
 
             # add concepts to dataset
             for concept in self.concepts:
                 ds.add_concept(
-                    ID=concept['ENGLISH'],
+                    ID=slug(concept['ENGLISH']),
                     Concepticon_ID=concept['CONCEPTICON_ID'],
                     Name=concept['CONCEPTICON_GLOSS'])
 
@@ -153,13 +153,10 @@ class Dataset(BaseDataset):
 
                     # if not empty and not form indicating empty
                     if form and form not in ['/', '?', '-', '—', ']']:
-                        tokens = self._tokenizer('IPA', form)
-
                         for row in ds.add_lexemes(
-                            Language_ID=lang_entry,
-                            Parameter_ID=concept_entry,
+                            Language_ID=slug(lang_entry),
+                            Parameter_ID=slug(concept_entry),
                             Value=form,
-                            Segments=tokens,
                             Source=['Bowern2012'],
                         ):
                             # in Bowern dataset, cogid zero seems to be reserved for all
@@ -169,7 +166,7 @@ class Dataset(BaseDataset):
                             if cogid == '0':
                                 cognate_set_id = None
                             else:
-                                cognate_set_id = '%s-%s' % (concept_entry, cogid)
+                                cognate_set_id = '%s-%s' % (slug(concept_entry), cogid)
 
                             ds.add_cognate(
                                 lexeme=row,
