@@ -27,11 +27,5 @@ Conceptlist in Concepticon: [Bowern-2017-348](http://concepticon.clld.org/contri
 - **Cognacy:** 39,037 cognates in 5,137 cognate sets
 - **Invalid lexemes:** 0
 - **Tokens:** 286,973
-- **Segments:** 116 (1 BIPA errors, 1 CTLS sound class errors, 122 CLTS modified)
-- **Inventory size (avg):** 32.78
-
-## Possible Improvements:
-
-- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - Wirangu-Nauo [wira1260](http://glottolog.org/resource/languoid/id/wira1260)
-
+- **Segments:** 117 (1 BIPA errors, 1 CTLS sound class errors, 116 CLTS modified)
+- **Inventory size (avg):** 32.76
