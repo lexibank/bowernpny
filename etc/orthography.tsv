@@ -1,8 +1,8 @@
 Grapheme	FREQUENCY	IPA	UNICODE
 	14	NULL	U+001e
-"	4	NULL	U+0022
-"-		NULL	U+0022 U+002d
-"k		k	U+0022 U+006b
+""""	4	NULL	U+0022
+"""-"		NULL	U+0022 U+002d
+"""k"		k	U+0022 U+006b
 #	6	_	U+0023
 $		NULL	U+0024
 %		NULL	U+0025

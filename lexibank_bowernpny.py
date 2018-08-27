@@ -1,18 +1,27 @@
 # encoding: utf-8
 from __future__ import unicode_literals, print_function
+import csv
+import re
+
 from clldutils.path import Path
 from clldutils.text import split_text, strip_brackets
 from clldutils.misc import slug
+import attr
+
 from pylexibank.dataset import Metadata
-from pylexibank.dataset import Dataset as BaseDataset
+from pylexibank.dataset import Dataset as BaseDataset, Language as BaseLanguage
 from pylexibank.util import getEvoBibAsBibtex
 
-import csv
 
-import re
+@attr.s
+class Language(BaseLanguage):
+    Glottolog_name = attr.ib(default=None)
+
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
+    id = 'bowernpny'
+    language_class = Language
 
     def cmd_install(self, **kw):
         # Please note that we are removing asterisks from Bowern et al. data, used to
@@ -64,33 +73,16 @@ class Dataset(BaseDataset):
             'woman' : 'woman/female',
             'sick' : 'painful/sick',
         }
-        concepticon = {
-            c['ENGLISH'] : (c['CONCEPTICON_ID'], c['CONCEPTICON_GLOSS'], c['ENGLISH'])
-            for c in self.concepts
-        }
-        concepticon.update({k:concepticon[v] for k, v in equivalent_concepts.items()})
 
         with self.cldf as ds:
             ds.add_sources(*self.raw.read_bib())
-            # add languages to dataset and build mapping
-            for lang in self.languages:
-                # add to dataset
-                ds.add_language(
-                    ID=slug(lang['NAME']),
-                    Glottocode=lang['GLOTTOCODE'],
-                    Name=lang['GLOTTOLOG_NAME'])
-
-            # add concepts to dataset
-            for concept in self.concepts:
-                ds.add_concept(
-                    ID=slug(concept['ENGLISH']),
-                    Concepticon_ID=concept['CONCEPTICON_ID'],
-                    Name=concept['CONCEPTICON_GLOSS'])
+            ds.add_languages(id_factory=lambda l: slug(l['Name']))
+            ds.add_concepts(id_factory=lambda c: slug(c.label))
 
             # read source file, skipping over header ([1:])
             for i, row in enumerate(self.raw.read_tsv("bowernpny.tsv", quoting=csv.QUOTE_NONE)[1:]):
                 lang_entry = row[0]
-                concept_entry = concepticon[row[2]][2]
+                concept_entry = equivalent_concepts.get(row[2], row[2])
                 value = row[3]
                 cogid = row[4]
 

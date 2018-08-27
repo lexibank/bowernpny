@@ -27,5 +27,5 @@ Conceptlist in Concepticon: [Bowern-2017-348](http://concepticon.clld.org/contri
 - **Cognacy:** 39,037 cognates in 5,137 cognate sets
 - **Invalid lexemes:** 0
 - **Tokens:** 286,973
-- **Segments:** 117 (1 BIPA errors, 1 CTLS sound class errors, 116 CLTS modified)
+- **Segments:** 116 (1 BIPA errors, 1 CTLS sound class errors, 115 CLTS modified)
 - **Inventory size (avg):** 32.76
