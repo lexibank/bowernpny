@@ -20,6 +20,13 @@
                 "glottolog_version": "pyglottolog-1.2.1-60-gf46bb64",
                 "concepticon_version": "pyconcepticon-1.4.0-39-g121e0c7"
             }
+        },
+        {
+            "dc:title": "environment",
+            "properties": {
+                "glottolog_version": "pyglottolog-1.2.1-60-gf46bb64",
+                "concepticon_version": "pyconcepticon-1.4.0-39-g121e0c7"
+            }
         }
     ],
     "tables": [

@@ -9,13 +9,12 @@ from clldutils.misc import slug
 import attr
 
 from pylexibank.dataset import Metadata
-from pylexibank.dataset import Dataset as BaseDataset, Language as BaseLanguage
+from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import getEvoBibAsBibtex
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = 'bowernpny'
-    language_class = BaseLanguage
 
     def cmd_install(self, **kw):
         # Please note that we are removing asterisks from Bowern et al. data, used to
