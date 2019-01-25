@@ -9,19 +9,14 @@ from clldutils.misc import slug
 import attr
 
 from pylexibank.dataset import Metadata
-from pylexibank.dataset import Dataset as BaseDataset, Language as BaseLanguage
+from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import getEvoBibAsBibtex
 
-
-@attr.s
-class Language(BaseLanguage):
-    Glottolog_name = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = 'bowernpny'
-    language_class = Language
 
     def cmd_install(self, **kw):
         # Please note that we are removing asterisks from Bowern et al. data, used to
@@ -74,6 +69,7 @@ class Dataset(BaseDataset):
             'sick' : 'painful/sick',
         }
 
+        cognate_set_ids = {}
         with self.cldf as ds:
             ds.add_sources(*self.raw.read_bib())
             ds.add_languages(id_factory=lambda l: slug(l['Name']))
@@ -155,16 +151,14 @@ class Dataset(BaseDataset):
                             # entries without a single established cognate, but they are not
                             # cognates among themselves (obviously), so we need unique
                             # IDs
-                            if cogid == '0':
-                                cognate_set_id = None
-                            else:
-                                cognate_set_id = '%s-%s' % (slug(concept_entry), cogid)
+                            if cogid != '0':
+                                cognate_set_id = cognate_set_ids.setdefault('%s-%s' % (slug(concept_entry), cogid), len(cognate_set_ids) + 1)
 
-                            ds.add_cognate(
-                                lexeme=row,
-                                Cognateset_ID=cognate_set_id,
-                                Source=['Bowern2012'],
-                                Alignment_Source='List2014e')
+                                ds.add_cognate(
+                                    lexeme=row,
+                                    Cognateset_ID=cognate_set_id,
+                                    Source=['Bowern2012'],
+                                    Alignment_Source='List2014e')
 
             ds.align_cognates()
 

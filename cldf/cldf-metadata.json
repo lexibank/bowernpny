@@ -18,7 +18,7 @@
             "dc:title": "environment",
             "properties": {
                 "glottolog_version": "v3.3.2",
-                "concepticon_version": "pyconcepticon-1.4.0-10-g1d57531"
+                "concepticon_version": "pyconcepticon-1.4.0-50-g100c401"
             }
         }
     ],
@@ -156,10 +156,6 @@
                     {
                         "datatype": "string",
                         "name": "Family"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Glottolog_name"
                     }
                 ],
                 "primaryKey": [
@@ -202,7 +198,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 47838,
+            "dc:extent": 31659,
             "tableSchema": {
                 "columns": [
                     {

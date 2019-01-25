@@ -14,8 +14,8 @@ Conceptlist in Concepticon: [Bowern-2017-348](http://concepticon.clld.org/contri
 
 
 [![Build Status](https://travis-ci.org/lexibank/bowernpny.svg?branch=master)](https://travis-ci.org/lexibank/bowernpny)
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
+![Glottolog: 93%](https://img.shields.io/badge/Glottolog-93%25-green.svg "Glottolog: 93%")
+![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-green.svg "Concepticon: 99%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-brightgreen.svg "BIPA: 99%")
 ![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-brightgreen.svg "CLTS SoundClass: 99%")
@@ -24,7 +24,7 @@ Conceptlist in Concepticon: [Bowern-2017-348](http://concepticon.clld.org/contri
 - **Concepts:** 344
 - **Lexemes:** 47,838
 - **Synonymy:** 1.07
-- **Cognacy:** 39,037 cognates in 5,137 cognate sets
+- **Cognacy:** 22,858 cognates in 5,136 cognate sets
 - **Invalid lexemes:** 0
 - **Tokens:** 286,973
 - **Segments:** 116 (1 BIPA errors, 1 CTLS sound class errors, 115 CLTS modified)
