@@ -39,7 +39,7 @@ bandicoot,bandicoot,3012,BANDICOOT
 bat,bat,1793,BAT
 beard,beard,678,BEARD
 belly,belly,1251,BELLY
-below,below,2094,DOWN OR BELOW
+below,below,1485,BELOW OR UNDER
 big,big,1202,BIG
 bird,bird,937,BIRD
 bite,bite,1403,BITE
@@ -153,9 +153,9 @@ hear,hear,1408,HEAR
 heart,heart,1223,HEART
 heavy,heavy,1210,HEAVY
 heel,heel,980,HEEL
-hide,hide,602,HIDE (CONCEAL)
+hide,hide,2486,HIDE
 hill,hill,614,HILL
-hitwithhand,hit (with hand),1433,HIT
+hitwithhand,hit (with hand),353,STRIKE
 hold,hold,1448,HOLD
 honey,honey,942,HONEY
 hot,hot,1286,HOT
