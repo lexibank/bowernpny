@@ -71,7 +71,6 @@
 | ɛ | 31 | ✓ | ✓ |
 | ˀw | 31 | ✓ | ✓ |
 | ɨ | 26 | ✓ | ✓ |
-| <<#>> | 25 | ? | ? |
 | ð | 24 | ✓ | ✓ |
 | ˀm | 24 | ✓ | ✓ |
 | dʒ | 21 | ✓ | ✓ |
@@ -92,7 +91,6 @@
 | nʲ | 8 | ✓ | ✓ |
 | Z/ʒ | 7 | ✓ | ✓ |
 | t̪ʷ | 6 | ✓ | ✓ |
-| ˀd | 6 | ✓ | ✓ |
 | tʲ | 5 | ✓ | ✓ |
 | yː | 5 | ✓ | ✓ |
 | ɤ | 5 | ✓ | ✓ |
@@ -100,15 +98,15 @@
 | ˀr | 5 | ✓ | ✓ |
 | t̩/t | 4 | ✓ | ✓ |
 | ã | 4 | ✓ | ✓ |
-| <<ʒ>> | 2 | ? | ? |
+| ˀd | 4 | ✓ | ✓ |
 | cʷ | 2 | ✓ | ✓ |
 | dʱ | 2 | ✓ | ✓ |
 | tʃ | 2 | ✓ | ✓ |
 | œ | 2 | ✓ | ✓ |
 | ɐ | 2 | ✓ | ✓ |
+| ˀdʒ | 2 | ✓ | ✓ |
 | θ | 2 | ✓ | ✓ |
 | &/e | 1 | ✓ | ✓ |
-| <<̱>> | 1 | ? | ? |
 | f | 1 | ✓ | ✓ |
 | i̱/i | 1 | ✓ | ✓ |
 | lʷ | 1 | ✓ | ✓ |
@@ -125,7 +123,7 @@
 | ˀs | 1 | ✓ | ✓ |
 | ˀɭ | 1 | ✓ | ✓ |
 
-(119 rows)
+(117 rows)
 
 
 
@@ -141,31 +139,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:---------------------------|:-------------|:------------|:---------------------|:--------------------------------------------------------------|
-| dharawal-firesticks-1 | dharawal | firesticks | dundun #or# dhundhun | d u n d u n + <s> <<#>> </s> o ɹ <s> <<#>> </s> + d̪ u n d̪ u n |
-| dhurga-firesticks-1 | dhurga | firesticks | dundun #or# dhundhun | d u n d u n + <s> <<#>> </s> o ɹ <s> <<#>> </s> + d̪ u n d̪ u n |
-| kamilaroi-weexclpl-1 | kamilaroi | weexclpl | ghu#ryuNun | ɣ u <s> <<#>> </s> ɹ j u ŋ u n |
-| ngadjumaya-rainbow-1 | ngadjumaya | rainbow | kuu̱i nandarrgin | k uː <s> <<̱>> </s> i + n a n d a r g i n |
-| ngaiawang-all-1 | ngaiawang | all | m#uppo | m <s> <<#>> </s> u pː o |
-| ngaiawang-angry-1 | ngaiawang | angry | idla#idl | i d l a <s> <<#>> </s> i d l |
-| ngaiawang-fatgrease-1 | ngaiawang | fatgrease | m#udla | m <s> <<#>> </s> u d l a |
-| ngaiawang-good-1 | ngaiawang | good | m#udla | m <s> <<#>> </s> u d l a |
-| ngaiawang-heart-1 | ngaiawang | heart | p#ummung | p <s> <<#>> </s> u mː u ŋ |
-| ngaiawang-lung-1 | ngaiawang | lung | p#umum | p <s> <<#>> </s> u m u m |
-| ngaiawang-nearclose-1 | ngaiawang | nearclose | ng#utun | ŋ <s> <<#>> </s> u t u n |
-| ngaiawang-painfulsore-1 | ngaiawang | painfulsore | m#ukkem#uk | m <s> <<#>> </s> u kː e m <s> <<#>> </s> u k |
-| ngiyambaa-breast-1 | ngiyambaa | breast | Nummu# | ŋ u mː u <s> <<#>> </s> |
-| ngiyambaa-i-1 | ngiyambaa | i | Na#ttu | ŋ a <s> <<#>> </s> tː u |
-| ngiyambaa-weexclpl-1 | ngiyambaa | weexclpl | Ne#ene | ŋ e <s> <<#>> </s> e n e |
-| ngiyambaa-wife-1 | ngiyambaa | wife | Nu#an | ŋ u <s> <<#>> </s> a n |
-| ngiyambaa-womanfemale-1 | ngiyambaa | womanfemale | wi#ru_Nga# | w i <s> <<#>> </s> ɹ u _ ŋ g a <s> <<#>> </s> |
-| ngiyambaa-yellow-1 | ngiyambaa | yellow | gu#naiNgu#na | g u <s> <<#>> </s> n a i ŋ g u <s> <<#>> </s> n a |
-| warnman-eat-1 | warnman | eat | majurri# | m a c u r i <s> <<#>> </s> |
-| warnman-owl-1 | warnman | owl | malaputu# | m a l a p u t u <s> <<#>> </s> |
-| warnman-wood-1 | warnman | wood | lungkuyurrpa# | l u ŋ k u j u r p a <s> <<#>> </s> |
-| yindjilandji-long-1 | yindjilandji | long | 'dʒʊdaŋi | ˀd <s> <<ʒ>> </s> ʊ d a ŋ i |
-| yindjilandji-painfulsick-1 | yindjilandji | painfulsick | 'dʒɪɹɪdʒɪɹɪ | ˀd <s> <<ʒ>> </s> ɪ ɹ ɪ dʒ ɪ ɹ ɪ |
+||
 
-(23 rows)
+(0 rows)
 
 

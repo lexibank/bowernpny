@@ -3,7 +3,7 @@ Grapheme	FREQUENCY	IPA	UNICODE
 """"	4	NULL	U+0022
 """-"		NULL	U+0022 U+002d
 """k"		k	U+0022 U+006b
-#	6	_	U+0023
+#	6	+	U+0023
 $		NULL	U+0024
 %		NULL	U+0025
 &		&/e	U+0026
@@ -342,3 +342,5 @@ z	45	z	U+007a
 NH	1	ŋ	U+0048 U+0061
 e̱	1	e	U+0065 U+0331
 ɨ́y	1	ɨ j	U+0268 U+0301 U+0079
+'dʒ		ˀdʒ	
+uu̱		uː	

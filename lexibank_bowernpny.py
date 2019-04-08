@@ -139,6 +139,9 @@ class Dataset(BaseDataset):
                     # remove multiple spaces, plurs leading&trailing spaces
                     form = re.sub('\s+', ' ', form.strip())
 
+                    # Replace hash signs which cannot be handled in OP
+                    form = form.replace('#', '+')
+
                     # if not empty and not form indicating empty
                     if form and form not in ['/', '?', '-', '—', ']']:
                         for row in ds.add_lexemes(
