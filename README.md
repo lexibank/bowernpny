@@ -13,6 +13,7 @@ Conceptlists in Concepticon:
 
 ## Statistics
 
+
 [![Build Status](https://travis-ci.org/lexibank/bowernpny.svg?branch=master)](https://travis-ci.org/lexibank/bowernpny)
 ![Glottolog: 93%](https://img.shields.io/badge/Glottolog-93%25-green.svg "Glottolog: 93%")
 ![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-green.svg "Concepticon: 99%")
@@ -30,4 +31,3 @@ Conceptlists in Concepticon:
 - **Tokens:** 286,947
 - **Segments:** 117 (0 BIPA errors, 0 CTLS sound class errors, 117 CLTS modified)
 - **Inventory size (avg):** 32.76
-

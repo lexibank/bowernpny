@@ -1,15 +1,18 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
+    "aboutUrl": null,
     "dc:bibliographicCitation": "Bowern, Claire, & Atkinson, Quentin. (2012). Computational Phylogenetics and the Internal Structure of Pama-Nyungan: Dataset [Data set]. Language. http://doi.org/10.1353/lan.2012.0081",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": null,
     "dc:format": [
         "http://concepticon.clld.org/contributions/Bowern-2017-348"
     ],
     "dc:identifier": "https://zenodo.org/record/1005671",
+    "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Computational Phylogenetics and the Internal Structure of Pama-Nyungan: Dataset",
-    "dcat:accessURL": "https://github.com/lexibank/bowernpny",
     "rdf:ID": "bowernpny",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -19,7 +22,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4",
+                "glottolog_version": "v4.0",
                 "concepticon_version": "v2.0"
             }
         }
