@@ -1,4 +1,4 @@
-# Computational Phylogenetics and the Internal Structure of Pama-Nyungan: Dataset
+# The Internal Structure of Pama-Yungan
 
 Cite the source dataset as
 

@@ -12,7 +12,7 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Computational Phylogenetics and the Internal Structure of Pama-Nyungan: Dataset",
+    "dc:title": "The Internal Structure of Pama-Yungan",
     "rdf:ID": "bowernpny",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -23,7 +23,7 @@
             "dc:title": "environment",
             "properties": {
                 "glottolog_version": "v4.0",
-                "concepticon_version": "v2.0"
+                "concepticon_version": "v2.1.0"
             }
         }
     ],
