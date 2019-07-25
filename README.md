@@ -1,4 +1,4 @@
-# Computational Phylogenetics and the Internal Structure of Pama-Nyungan: Dataset
+# The Internal Structure of Pama-Nyungan
 
 Cite the source dataset as
 
@@ -12,7 +12,6 @@ Conceptlists in Concepticon:
 - [Bowern-2017-348](http://concepticon.clld.org/contributions/Bowern-2017-348)
 
 ## Statistics
-
 
 [![Build Status](https://travis-ci.org/lexibank/bowernpny.svg?branch=master)](https://travis-ci.org/lexibank/bowernpny)
 ![Glottolog: 95%](https://img.shields.io/badge/Glottolog-95%25-green.svg "Glottolog: 95%")
