@@ -54,6 +54,15 @@
     "dialect": {
         "commentPrefix": null
     },
+    "notes": [
+        {
+            "dc:title": "environment",
+            "properties": {
+                "glottolog_version": "v4.0",
+                "concepticon_version": "v2.1.0"
+            }
+        }
+    ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
