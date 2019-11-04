@@ -8,9 +8,9 @@ This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ li
 
 Available online at https://zenodo.org/record/1005671
 
-Conceptlists in Concepticon:
-- [Bowern-2017-348](http://concepticon.clld.org/contributions/Bowern-2017-348)
 
+Conceptlists in Concepticon:
+- [Bowern-2017-348](https://concepticon.clld.org/contributions/Bowern-2017-348)
 ## Statistics
 
 
@@ -23,11 +23,12 @@ Conceptlists in Concepticon:
 
 - **Varieties:** 190
 - **Concepts:** 344
-- **Lexemes:** 47,838
-- **Synonymy:** 1.07
-- **Cognacy:** 31,659 cognates in 13,937 cognate sets (8,801 singletons)
-- **Cognate Diversity:** 0.29
+- **Lexemes:** 44,876
+- **Sources:** 1
+- **Synonymy:** 1.00
+- **Cognacy:** 44,876 cognates in 15,587 cognate sets (15,461 singletons)
+- **Cognate Diversity:** 0.34
 - **Invalid lexemes:** 0
-- **Tokens:** 286,947
+- **Tokens:** 272,449
 - **Segments:** 117 (0 BIPA errors, 0 CTLS sound class errors, 117 CLTS modified)
-- **Inventory size (avg):** 32.76
+- **Inventory size (avg):** 32.87

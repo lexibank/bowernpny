@@ -1,16 +1,16 @@
 LEXEME,REPLACEMENT,COMMENT
-apmp-em; pwelh (burnt (from too much cooking)),apmp-em / pwelh,lang: Alyawarr concept: [burn]
-ak-em/ akalth-em;  akaltheyel (split (a log)/ cut);  akeyel (c,ak-em / akalth-em,lang: Alyawarr concept: [cut]
+apmp-em; pwelh (burnt (from too much cooking)),apmp-em,lang: Alyawarr concept: [burn]
+ak-em/ akalth-em;  akaltheyel (split (a log)/ cut);  akeyel,lang: Alyawarr concept: [cut]
 bieni or bienieni,bieni / bienieni,lang: Guugu-Yimidhirr concept: [die]
 pundanuung mæring/ 'bite the ground',pundanuung mæring,lang: Gunditjmara concept: [dig]
 rtarrasclothes,rtarras,lang: Northern Mangarla concept: [dry]
-<I>oane or <l>oane,Ioane / loane,lang: Keramin concept: [fly]
-mayi [vegetable food]/ kunampi ripe -- ripe fruit,mayi / kunampi ripe,lang: Warumungu concept: [fruit]
+<I>oane or <l>oane,Ioane,lang: Keramin concept: [fly]
+mayi [vegetable food]/ kunampi ripe -- ripe fruit,mayi,lang: Warumungu concept: [fruit]
 [Cad-lwar [or] ...,Cad-lwar,lang: Birrpayi concept: [neck]
 bool-e ngine-go gat-on ‘stomach full s,bool-e ngine-go gat-on,lang: Bunganditj concept: [thick]
-warnu / waranu (abs.)/,warnu / waranu,lang: Yandruwandha concept: [who?]
+warnu / waranu (abs.)/,warnu,lang: Yandruwandha concept: [who?]
 paña(n(h)a),paña / pañana / pañanha,lang: Guwa concept: [woman]
-kuram(p) (ko:rrm(p) ~ ko:rmup),kuram / kuramp / ko:rrm / ko:rrmp / ko:rmup,lang: Keramin concept: [woman]
+kuram(p) (ko:rrm(p) ~ ko:rmup),kuram,lang: Keramin concept: [woman]
 yir(a(l)) / yir(a(l)),yir / yira / yiral,lang: Kukatj concept: [2pl]
 mańurru ({E manure ?}),mańurru,lang: Ngadjumaya concept: [tobacco]
 yatmiruk/ 'close the eye',yatmiruk,lang: Gunditjmara concept: [cave]
@@ -19,7 +19,7 @@ nuurteean wirng o/ 'shut ear',nuurteean wirng o,lang: Gunditjmara concept: [deaf
 ŋwiyá-ŋa1yuru-badá2 BREAD,ŋwiyá-ŋa1yuru-badá2,lang: Iyora concept: [give]
 guhgin W (but cf 'north')/ not listed in other dialects,guhgin,lang: Bandjalang concept: [east]
 pupkuupeetch tirng/ 'rising sun',pupkuupeetch tirng,lang: Gunditjmara concept: [east]
-darahyn/ also wanzwanz C,darahyn / wanzwanz,lang: Bandjalang concept: [frog]
+darahyn/ also wanzwanz C,darahyn,lang: Bandjalang concept: [frog]
 923,,lang: Wargamay concept: [drink]
 2859,,lang: Dhuwal concept: [flower]
 [yun [?] yuinbulali goombulbulali dhuñ mandhi],yun,lang:Dharawal concept: [man]
@@ -37,3 +37,127 @@ guji 'bone, wrist',guji,lang: Jaru-McC concept: [bone]
 wubihn Y/ wiyan/ wuyan others/ mindal G etc,wubihn / wiyan / wuyan / mindal G,lang: Bandjalang concept: [know]
 paroo/ etc. (each sort has a particular name),paroo,lang: Mount Freeling Diyari concept: [fish]
 woma/ etc.,woma,lang: Mount Freeling Diyari concept: [snake]
+refer drank,-,
+refer crew,-,
+refer broke,-,
+refer spoke,-,
+refer sang,-,
+only specific,-,
+not used,-,
+[missing] / [missing],-,
+NO INDIGENOUS NAME RECORDED ON PAINTING:,-,
+peimba or blowarn,"peimba,blowarn",
+"NO INDIGENOUS NAME RECORDED ON PAINTING: [Watling Drawing - no. 82 : Marsupial, ""Kangaroo Rat"" / Port Jackson Painter]",-,
+"<I>oane or <l>oane",oane,
+"Quannert, or Marrin",Quannert,
+"bieni or bienieni",bieni,
+"dingal or dingalngal",dingal,
+"dira, or dhira",dira,
+"euri, uri, or yoori",euri,
+"groomon or kroomon",groomon,
+"jidi (?) or jidji (?)",jidi,
+"jurung or terrung",jurung,
+"k\yup or yoori",kʔyup,
+"luung an, or weepa",luung an,
+"matyima- or matyama-",matyima,
+"mulka or monka",mulka,
+"panpini- (V3) or (V2)",panpini,
+"peela or peelan,worroba",peela,
+"peimba or blowarn",peimba,
+"pilla or pillpa",pilla,
+"pithiring or pithiriny",pithiring,
+"puiyu or pooeyoo",puiyu,
+"quong or koong",quong,
+"rongko or ronngu",rongko,
+"taung or tewang",taung,
+"thara or thara",thara,
+"thupu, makathupu, muki or muku",thupu,
+"katningka,kaningka above",katningka,
+barrgu/barragu,barrgu
+"nyulka-(aRa)/nyuLka-",nyulka,
+"(1) yi’lvan/a, OR (2) bau’waman",yi’lvanʔa,
+"garda'a(-r/n)-",garda'a,
+"yandrr/Ra/yaNDrra",yandrra,
+"yahna-/yahn.ga- Y,G, yehna-/yehn.ga- W,Wi,C (irreg.)",yahna,
+"barkaŋu/barkaŋur",barkaŋu,
+"yadya-/yatya-",yadya,
+"n/un’dai",n/un’dai,
+"gabari/garba",gabari,
+"kalu/a/i",kalu,
+"binydjitjtham/binydjitjkum",binydjitjtham,
+"ngayinma(-r/n)-",ngayinma,
+"tjirta/ tjirtati",tjirta,
+"mordompi.lk, welbh.angk ma.nk/wi.lk",mordompi,
+"ko/o/rin",koʔoʔrin,
+"pirta/piTa",pirta,
+"yagunyU/A ",yagunyU,
+"tjundal/rr",tjundal,
+"tantiLa/thanthiLa",tantiLa,
+"badini/barrini",badini,
+"yaNkka/yanka",yaNkka,
+"barrgu/barragu",barrgu,
+"ngunawali/nguNawali",ngunawali,
+"ta,/-ta,/-tja,\-ngka",ta,
+"ngayunyali/litju",ngayunyali,
+"yili/yile Y, yile/yila others, jiyah C,w,Wi, wiynji Y",yili,
+"midjal/rr",midjal,
+"ngayi/ngayu",ngayi,
+"dimbal/dumbal",dimbal,
+"(karna/walga) nuga",nuga,
+"maratharra/maratarra",maratharra,
+"wo/o/loo",woʔoʔloo,
+"warnta/waNta",warnta,
+"karragadya/karrakadya",karragadya,
+"nyinawu(r)da/u",nyinawu(r)da,
+"ngara warrka/waRka-",ngara warrka,
+"ki/ndill",ki,
+"to/o/num",to,
+"tjarlpa/tjalpa",tjarlpa,
+"yadyila/yadyiga",yadyila,
+"ngurra/nguRa",ngurra,
+"warungurru/warungurra",warungurru,
+"ŋabirei mana/manda",ŋabirei mana,
+"tibi /kunar",tibi ,
+"tumpa(-rra/nga)",tumpa,
+"taLi/tarli",taLi,
+"nyagilI(/A?)",nyagilI,
+"ngananangarri, nganana, ngayunpala/latju, ngayunpa, ngayuntu, ngayuntu/latju",ngananangarri,
+"ngarla/uka",ngarla,
+"warnigi/warniyanu",warnigi,
+"(1) we’n/o, OR (2) we’n/omini",we’n,
+"nhiina/e",nhiina,
+"mami-(irra/inga)",mami,
+"pirndil/rr",pirndil,
+"pangula /?",pangula,
+"maDRi(-wandiba/rra)",maDRi,
+"budi/gudi",budi,
+"thumba(-l/n)-, jiga(-l/n)-",thumba,
+"litju/-litju",litju,
+dundun #or# dhundhun,dundun,
+"yantani-rra/aDla",yantani-rra,
+"maDliana kad/Rakad/Ra",maDliana kad,
+"gäḻkuḻa/m",gäḻkuḻa,
+"ngat mara/marna",ngat mara,
+"thupu-/tupu-",thupu,
+"(1) we’n/o, OR (2) bo’na",we’n,
+"thithi/titi",thithi,
+"ki/ole",ki,
+"parrakaLbura/purra kaL",parrakaLbura,
+"we’n/obolla",we’n,
+"thana/e",thana,
+kirrkkirta- CHECK,kirrkkirta,
+"muntu-wanppa- CHECK",muntu-wanppa,
+"janabanz Y, nyulamanz/nyulanzam others",janabanz,
+"Nan’door mi’n/aNgai",Nan’door,
+"ngulhu/ngulu",ngulhu,
+"ninik- /?",ninik,
+"n/uin",nʔuin,
+"yarrinya/yaRinya",yarrinya,
+"yam-mer/yamna/yanmer",yam-mer,
+"tyalparra/thalparra",tyalparra,
+"walga/waLga",walga,
+"kalka-(nyaDla/nyaLa)",kalka,
+"dityi/tityi (= rrityi?",dityi,
+"kudn/kudmi",kudn,
+"gugiyn/wugiyn Y, nzabar W, jamgal C",gugiyn,
+"ma/ngoola",maʔngoola,

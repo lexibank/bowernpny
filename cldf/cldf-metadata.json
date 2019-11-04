@@ -3,7 +3,6 @@
     "aboutUrl": null,
     "dc:bibliographicCitation": "Bowern, Claire, & Atkinson, Quentin. (2012). Computational Phylogenetics and the Internal Structure of Pama-Nyungan: Dataset [Data set]. Language. http://doi.org/10.1353/lan.2012.0081",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:description": null,
     "dc:format": [
         "http://concepticon.clld.org/contributions/Bowern-2017-348"
     ],
@@ -13,24 +12,52 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Computational Phylogenetics and the Internal Structure of Pama-Nyungan: Dataset",
+    "dcat:accessURL": "https://github.com/lexibank/bowernpny",
+    "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/lexibank/bowernpny",
+            "dc:created": "v2.0-4-g38eec14"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/lingulist/glottolog-data",
+            "dc:created": "v4.0"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "dc:created": "v1.4"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
+            "rdf:about": "https://github.com/concepticon/concepticon-data/",
+            "dc:created": "v2.1.0-109-g408e9f8"
+        }
+    ],
+    "prov:wasGeneratedBy": [
+        {
+            "dc:title": "python",
+            "dc:description": "3.5.2"
+        },
+        {
+            "dc:title": "python-packages",
+            "dc:relation": "requirements.txt"
+        }
+    ],
     "rdf:ID": "bowernpny",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
-    "notes": [
-        {
-            "dc:title": "environment",
-            "properties": {
-                "glottolog_version": "v4.0",
-                "concepticon_version": "v2.0"
-            }
-        }
-    ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 47838,
+            "dc:extent": 44876,
             "tableSchema": {
                 "columns": [
                     {
@@ -223,7 +250,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 31659,
+            "dc:extent": 44876,
             "tableSchema": {
                 "columns": [
                     {
