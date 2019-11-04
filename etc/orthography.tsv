@@ -1,346 +1,359 @@
-Grapheme	FREQUENCY	IPA	UNICODE
-	14	NULL	U+001e
-""""	4	NULL	U+0022
-"""-"		NULL	U+0022 U+002d
-"""k"		k	U+0022 U+006b
-#	6	+	U+0023
-$		NULL	U+0024
-%		NULL	U+0025
-&		&/e	U+0026
-'	107	ʔ	U+0027
-'A	1	ʔ a	U+0027 U+0041
-'a	34	ʔ a	U+0027 U+0061
-'a:	1	ʔ aː	U+0027 U+0061 U+003a
-'b	2	ˀb	U+0027 U+0062
-'d	2	ˀd	U+0027 U+0064
-'dh	2	ʔ dʱ	U+0027 U+0064 U+0068
-'e	1	ʔ e	U+0027 U+0065
-'g	5	ʔ g	U+0027 U+0067
-'i	10	ʔ i	U+0027 U+0069
-'k	11	ˀk	U+0027 U+006b
-'m	13	ˀm	U+0027 U+006d
-'n	2	ˀn	U+0027 U+006e
-'o	1	ʔ o	U+0027 U+006f
-'p	4	ʔ p	U+0027 U+0070
-'r	1	ˀr	U+0027 U+0072
-'s	1	ˀs	U+0027 U+0073
-'t	6	ˀt	U+0027 U+0074
-'th	5	ˀt̪	U+0027 U+0074 U+0068
-'u	11	ʔ u	U+0027 U+0075
-'w	2	ˀw	U+0027 U+0077
-'y	53	ʔʲ	U+0027 U+0079
-'ŋ	2	ʔ ŋ	U+0027 U+014b
-'ǎ	1	ʔ a	U+0027 U+01ce
-'ḻ	1	ˀɭ	U+0027 U+1e3b
-*	13	NULL	U+002a
-*w	1	w	U+002a U+0077
-+	20	NULL	U+002b
--	148	NULL	U+002d
--$		NULL	U+002d U+0024
-.	25	NULL	U+002e
-.$		NULL	U+002e U+0024
-1	1	ɪ	U+0031
-2	7	ə	U+0032
-3	54	ɜ	U+0033
-474	2	NULL	U+0034 U+0037 U+0034
-7	71	ʔ	U+0037
-923	1	NULL	U+0039 U+0032 U+0033
-<	2	NULL	U+003c
-<^		NULL	U+003c U+005e
-<oongarnoo>		oː ŋ a r n oː	U+003c U+006f U+006f U+006e U+0067 U+0061 U+0072 U+006e U+006f U+006f U+003e
-<w	1	w	U+003c U+0077
-=	9	NULL	U+003d
-=w	1	w	U+003d U+0077
->	3	NULL	U+003e
->$		NULL	U+003e U+0024
-?	50	?/ʔ	U+003f
-??	1	ʔ	U+003f U+003f
-?w	2	ʔ w	U+003f U+0077
-@	14	ə	U+0040
-A	24	a	U+0041
-AA	1	ɑː	U+0041 U+0041
-B	16	b	U+0042
-Birrô´ara		b i r o ʔ a ɹ a	U+0042 U+0069 U+0072 U+0072 U+00f4 U+00b4 U+0061 U+0072 U+0061
-C	6	c	U+0043
-D	17	d	U+0044
-DH		ð 	U+0044 U+0048
-E	8	ɛ	U+0045
-G	82	g	U+0047
-I	6	i	U+0049
-J	8	j	U+004a
-K	15	k	U+004b
-L	7	l	U+004c
-M	17	m	U+004d
-N	185	ŋ	U+004e
-NG		ŋ	U+004e U+0047
-NN	1	nː	U+004e U+004e
-O	5	o	U+004f
-P	10	p	U+0050
-PP	1	pː	U+0050 U+0050
-Q	1	NULL	U+0051
-R	69	ɹ	U+0052
-RR	3	r	U+0052 U+0052
-T	7	t	U+0054
-TH		θ	U+0054 U+0048
-Th	1	t̪	U+0054 U+0068
-U	9	u	U+0055
-V	37	v	U+0056
-Vw	3	v	U+0056 U+0077
-W	14	w	U+0057
-Y	29	j	U+0059
-Y:	1	yː	U+0059 U+003a
-Yw	1	j w	U+0059 U+0077
-Z		Z/ʒ	U+005a
-\	5	ʔ	U+005c
-^		NULL	U+005e
-^-		NULL	U+005e U+002d
-^.		+	U+005e U+002e
-^–		NULL	U+005e U+2013
-_	31	_	U+005f
-`	8	ʔ	U+0060
-a	30240	a	U+0061
-a!	4	a	U+0061 U+0021
-a:	432	aː	U+0061 U+003a
-aa	444	aː	U+0061 U+0061
-aː	1	aː	U+0061 U+02d0
-aᵐ	1	ã	U+0061 U+1d50
-b	3434	b	U+0062
-b:	1	b:	U+0062 U+003a
-bawuː		b a w uː	U+0062 U+0061 U+0077 U+0075 U+02d0
-bb	43	bː	U+0062 U+0062
-bh	27	β	U+0062 U+0068
-bw	6	b w	U+0062 U+0077
-c	446	c	U+0063
-c:		cː	U+0063 U+003a
-ch	139	c	U+0063 U+0068
-chch	2	cː	U+0063 U+0068 U+0063 U+0068
-ck		k	U+0063 U+006b
-cw	2	cʷ	U+0063 U+0077
-d	3125	d	U+0064
-dd	23	dː	U+0064 U+0064
-dh	670	d̪	U+0064 U+0068
-dhw	1	t̪ʷ	U+0064 U+0068 U+0077
-dw	4	d w	U+0064 U+0077
-dʒ	20	dʒ	U+0064 U+0292
-d́	1	d	U+0064 U+0301
-d̪	4	d̪	U+0064 U+032a
-e	2051	e	U+0065
-e:	19	eː	U+0065 U+003a
-ee	193	eː	U+0065 U+0065
-eee	1	i	U+0065 U+0065 U+0065
-f	11	f	U+0066
-fw	1	f w	U+0066 U+0077
-g	5320	g	U+0067
-gg	168	gː	U+0067 U+0067
-gh	66	ɣ	U+0067 U+0068
-gw	34	gʷ	U+0067 U+0077
-h	172	h	U+0068
-i	13523	i	U+0069
-i!	2	i	U+0069 U+0021
-i:	112	iː	U+0069 U+003a
-ii	155	iː	U+0069 U+0069
-iræ		i r æ	U+0069 U+0072 U+00e6
-i¯	1	iː	U+0069 U+00af
-iː		iː	U+0069 U+02d0
-i̱		i̱/i	U+0069 U+0331
-iβi		i β i	U+0069 U+03b2 U+0069
-j	2106	c	U+006a
-jj	9	cː	U+006a U+006a
-jw	1	j w	U+006a U+0077
-k	7680	k	U+006b
-k:	15	kː	U+006b U+003a
-kk	78	kː	U+006b U+006b
-kw	56	kʷ	U+006b U+0077
-kʷ	1	kʷ	U+006b U+02b7
-kː		kː	U+006b U+02d0
-l	6738	l	U+006c
-l:	69	lː	U+006c U+003a
-lh	124	l̪	U+006c U+0068
-lhw	2	lʷ	U+006c U+0068 U+0077
-ll	197	lː	U+006c U+006c
-lw	56	l w	U+006c U+0077
-ĺ		ĺ/l	U+006c U+0301
-m	6219	m	U+006d
-m:	5	mː	U+006d U+003a
-mm	57	mː	U+006d U+006d
-mw	10	m w	U+006d U+0077
-mː	110	mː	U+006d U+02d0
-n	12921	n	U+006e
-n:	5	nː	U+006e U+003a
-ng		ŋ	U+006e U+0067
-nh	621	n̪	U+006e U+0068
-nhnh	1	n̪ː	U+006e U+0068 U+006e U+0068
-nhw	1	n̪ w	U+006e U+0068 U+0077
-nj		n c	U+006e U+006a
-nn	164	nː	U+006e U+006e
-ns	23	n s	U+006e U+0073
-nw	10	n w	U+006e U+0077
-ny		ɲ	U+006e U+0079
-nː		nː	U+006e U+02d0
-n̪	5	n̪	U+006e U+032a
-o	1417	o	U+006f
-o:	14	oː	U+006f U+003a
-oo	419	oː	U+006f U+006f
-ooo	2	oː	U+006f U+006f U+006f
-o̱		o̱/o	U+006f U+0331
-p	4769	p	U+0070
-p:	15	pː	U+0070 U+003a
-pp	54	pː	U+0070 U+0070
-pw	13	p w	U+0070 U+0077
-q	58	q	U+0071
-qq	7	qː	U+0071 U+0071
-r	8078	ɹ	U+0072
-r:	1	rː	U+0072 U+003a
-rd		ɖ	U+0072 U+0064
-rh	22	r	U+0072 U+0068
-rl		ɭ	U+0072 U+006c
-rn		ɳ	U+0072 U+006e
-rr	4451	r	U+0072 U+0072
-rr:		r	U+0072 U+0072 U+003a
-rrr	5	rː	U+0072 U+0072 U+0072
-rs	9	r s	U+0072 U+0073
-rt		ʈ	U+0072 U+0074
-rw	99	r w	U+0072 U+0077
-rː	10	rː	U+0072 U+02d0
-r̩		ɹ	U+0072 U+0329
-s	90	s	U+0073
-t	4702	t	U+0074
-t:	10	tː	U+0074 U+003a
-t:h	1	t̪	U+0074 U+003a U+0068
-th	1702	t̪	U+0074 U+0068
-thth	7	t̪ː	U+0074 U+0068 U+0074 U+0068
-tt	58	tː	U+0074 U+0074
-tw	14	t w	U+0074 U+0077
-ty		c	U+0074 U+0079
-tʃ	2	tʃ	U+0074 U+0283
-tʸ	6	c	U+0074 U+02b8
-t́	1	t	U+0074 U+0301
-t̩		t̩/t	U+0074 U+0329
-t̪	28	t̪	U+0074 U+032a
-u	15023	u	U+0075
-u!	3	u	U+0075 U+0021
-u:	154	uː	U+0075 U+003a
-uu	158	uː	U+0075 U+0075
-uː	1	uː	U+0075 U+02d0
-ù		ù/u	U+0075 U+0300
-u̱		u̱/u	U+0075 U+0331
-uⁿ	1	ũ	U+0075 U+207f
-v	247	v	U+0076
-vw	4	v	U+0076 U+0077
-w	4005	w	U+0077
-wh	2	w h	U+0077 U+0068
-ww	1	w	U+0077 U+0077
-x	6	x	U+0078
-y	7345	j	U+0079
-y:	7	yː	U+0079 U+003a
-yy	4	yː	U+0079 U+0079
-z	45	z	U+007a
-|		|/l	U+007c
-¯		NULL	U+00af
-´	17	ʔ	U+00b4
-´w	1	ˀw	U+00b4 U+0077
-µ	6	m	U+00b5
-Õ		Õ/o	U+00d5
-à	1	a	U+00e0
-á	57	a	U+00e1
-â	5	a	U+00e2
-ã	1	ã	U+00e3
-ä	42	æ	U+00e4
-äw	5	æ w	U+00e4 U+0077
-å	98	ɔ	U+00e5
-åw	14	ɔ w	U+00e5 U+0077
-æ	2	æ	U+00e6
-è		e	U+00e8
-é	41	e	U+00e9
-éw	2	e w	U+00e9 U+0077
-ê		e	U+00ea
-í	19	i	U+00ed
-ï	1	ɨ	U+00ef
-ð	31	ð	U+00f0
-ñ	37	ɲ	U+00f1
-ò	1	o	U+00f2
-ó	13	o	U+00f3
-ów	1	o w	U+00f3 U+0077
-ô	1	o	U+00f4
-ø		ø	U+00f8
-ú	31	u	U+00fa
-û		u	U+00fb
-ü		u	U+00fc
-ā	10	aː	U+0101
-ē	1	eː	U+0113
-ī	4	iː	U+012b
-ĭ		i	U+012d
-ń	2	nʲ	U+0144
-ŋ	2753	ŋ	U+014b
-ŋw	8	ŋ w	U+014b U+0077
-ŋŋ	2	ŋː	U+014b U+014b
-ō	4	oː	U+014d
-œ	3	œ	U+0153
-ř	23	ɾ	U+0159
-ţ		tʲ	U+0163
-ū	3	uː	U+016b
-ŭ		u	U+016d
-ƫ		tʲ	U+01ab
-Ɂ	1	ʔ	U+0241
-ɐ		ɐ	U+0250
-ɑ	63	a	U+0251
-ɑᵘ	1	ɑ w	U+0251 U+1d58
-ɔ	136	ɔ	U+0254
-ɔ́		ɔ	U+0254 U+0301
-ə	19	ə	U+0259
-ɛ	52	ɛ	U+025b
-ɛ:		ɛː	U+025b U+003a
-ɛ́		ɛ	U+025b U+0301
-ɡ	2	ɡ	U+0261
-ɣ	8	ɣ	U+0263
-ɤ	10	ɤ	U+0264
-ɨ	47	ɨ	U+0268
-ɩ	6	i	U+0269
-ɪ	182	ɪ	U+026a
-ɲ	5	ɲ	U+0272
-ɳ	1	ɳ	U+0273
-ɹ	9014	ɹ	U+0279
-ɽ	6	ɽ	U+027d
-ɾ	28	ɾ	U+027e
-ʀ	1	ʀ	U+0280
-ʊ	1	ʊ	U+028a
-ˈk	6	ˀk	U+02c8 U+006b
-ˈm	3	ˀm	U+02c8 U+006d
-ˈp	6	ˀp	U+02c8 U+0070
-ˈt	1	ˀt	U+02c8 U+0074
-ˈt̪	1	ˀt	U+02c8 U+0074 U+032a
-ˈw	2	ˀw	U+02c8 U+0077
-ˈy	3	ˀj	U+02c8 U+0079
-ˈř	1	ʔ r	U+02c8 U+0159
-˚	3	NULL	U+02da
-˜a		ã	U+02dc U+0061
-β	3	β	U+03b2
-γ	5	ɣ	U+03b3
-δ	7	ð	U+03b4
-ᶁ	3	ɖ	U+1d81
-ḍ		ḍ/d	U+1e0d
-Ḏ		Ḏ/ð	U+1e0e
-ḏ	131	ɖ	U+1e0f
-ḷ	10	ɭ	U+1e37
-ḻ	182	ɭ	U+1e3b
-ḻw	2	ɭ w	U+1e3b U+0077
-ṇ	4	ɳ	U+1e47
-ṉ	120	ɳ	U+1e49
-ṛ	5	ɹ	U+1e5b
-ṟ	7	ɹ	U+1e5f
-ṯ	59	ʈ	U+1e6f
-‑		NULL	U+2011
-–	15	NULL	U+2013
-–$		NULL	U+2013 U+0024
-‘	1	ʔ	U+2018
-‘n		n	U+2018 U+006e
-’	146	ʔ	U+2019
-’w	2	ˀw	U+2019 U+0077
-†	1	NULL	U+2020
-‹		NULL	U+2039
-��	1	NULL	U+fffd U+fffd
-NH	1	ŋ	U+0048 U+0061
-e̱	1	e	U+0065 U+0331
-ɨ́y	1	ɨ j	U+0268 U+0301 U+0079
-'dʒ		ˀdʒ	
-uu̱		uː	
+Grapheme	IPA
+m#	m
+u#	u
+ng#	ŋ
+i#	i
+a#	a
+p#	p
+g#	g
+e#	e
+	NULL
+!$	NULL
+""""	NULL
+"""-"	NULL
+"""k"	k
+#NAME?	w
+$	NULL
+%	NULL
+&	&/e
+'	ʔ
+'A	ʔ a
+'a	ʔ a
+'a:	ʔ aː
+'b	ˀb
+'d	ˀd
+'dh	ʔ dʱ
+'dʒ	ˀdʒ
+'e	ʔ e
+'g	ʔ g
+'i	ʔ i
+'k	ˀk
+'m	ˀm
+'n	ˀn
+'o	ʔ o
+'p	ʔ p
+'r	ˀr
+'s	ˀs
+'t	ˀt
+'th	ˀt̪
+'u	ʔ u
+'w	ˀw
+'y	ʔʲ
+'ŋ	ʔ ŋ
+'ǎ	ʔ a
+'ḻ	ˀɭ
+*	NULL
+*w	w
++	+
+-	+
+-$	NULL
+.	+
+.$	NULL
+/	ʔ
+0	NULL
+1	ɪ
+2	ə
+3	ɜ
+474	NULL
+7	ʔ
+923	NULL
+<	NULL
+<^	NULL
+<oongarnoo>	oː ŋ a r n oː
+<w	w
+=	NULL
+>	NULL
+>$	NULL
+?	?/ʔ
+??	ʔ
+?w	ʔ w
+@	ə
+A	a
+AA	ɑː
+B	b
+Birrô´ara	b i r o ʔ a ɹ a
+C	c
+D	d
+DH	ð 
+E	ɛ
+G	g
+I	i
+J	j
+K	k
+L	l
+M	m
+N	ŋ
+NG	ŋ
+NH	ŋ
+NN	nː
+O	o
+P	p
+PP	pː
+Q	NULL
+R	ɹ
+RR	r
+T	t
+TH	θ
+Th	t̪
+U	u
+V	v
+Vw	v
+W	w
+Y	j
+Y:	yː
+Yw	j w
+Z	Z/ʒ
+\	ʔ
+^	NULL
+^-	NULL
+^.	+
+^–	NULL
+_	_
+`	ʔ
+a	a
+a!	a
+a:	aː
+aa	aː
+aː	aː
+aᵐ	ã
+b	b
+b:	b:
+bawuː	b a w uː
+bb	bː
+bh	β
+bw	b w
+c	c
+c:	cː
+ch	c
+chch	cː
+ck	k
+cw	cʷ
+d	d
+dd	dː
+dh	d̪
+dhw	t̪ʷ
+dw	d w
+dʒ	dʒ
+d́	d
+d̪	d̪
+e	e
+e:	eː
+ee	eː
+eee	i
+e̱	e
+f	f
+fw	f w
+g	g
+gg	gː
+gh	ɣ
+gw	gʷ
+h	h
+i	i
+i!	i
+i:	iː
+ii	iː
+iræ	i r æ
+i¯	iː
+iː	iː
+i̱	i̱/i
+iβi	i β i
+j	c
+jj	cː
+jw	j w
+k	k
+k:	kː
+kk	kː
+kw	kʷ
+kʷ	kʷ
+kː	kː
+l	l
+l:	lː
+lh	l̪
+lhw	lʷ
+ll	lː
+lw	l w
+ĺ	ĺ/l
+m	m
+m:	mː
+mm	mː
+mw	m w
+mː	mː
+n	n
+n:	nː
+ng	ŋ
+nh	n̪
+nhnh	n̪ː
+nhw	n̪ w
+nj	n c
+nn	nː
+ns	n s
+nw	n w
+ny	ɲ
+nː	nː
+n̪	n̪
+o	o
+o:	oː
+oo	oː
+ooo	oː
+o̱	o̱/o
+p	p
+p:	pː
+pp	pː
+pw	p w
+q	q
+qq	qː
+r	ɹ
+r:	rː
+rd	ɖ
+rh	r
+rl	ɭ
+rn	ɳ
+rr	r
+rr:	r
+rrr	rː
+rs	r s
+rt	ʈ
+rw	r w
+rː	rː
+r̩	ɹ
+s	s
+t	t
+t:	tː
+t:h	t̪
+th	t̪
+thth	t̪ː
+tt	tː
+tw	t w
+ty	c
+tʃ	tʃ
+tʸ	c
+t́	t
+t̩	t̩/t
+t̪	t̪
+u	u
+u!	u
+u:	uː
+uu	uː
+uu̱	uː
+uː	uː
+ù	ù/u
+u̱	u̱/u
+uⁿ	ũ
+v	v
+vw	v
+w	w
+wh	w h
+ww	w
+x	x
+y	j
+y:	yː
+yy	yː
+z	z
+|	|/l
+¯	NULL
+´	ʔ
+´w	ˀw
+µ	m
+Õ	Õ/o
+à	a
+á	a
+â	a
+ã	ã
+ä	æ
+äw	æ w
+å	ɔ
+åw	ɔ w
+æ	æ
+è	e
+é	e
+éw	e w
+ê	e
+í	i
+ï	ɨ
+ð	ð
+ñ	ɲ
+ò	o
+ó	o
+ów	o w
+ô	o
+ø	ø
+ú	u
+û	u
+ü	u
+ā	aː
+ē	eː
+ī	iː
+ĭ	i
+ń	nʲ
+ŋ	ŋ
+ŋw	ŋ w
+ŋŋ	ŋː
+ō	oː
+œ	œ
+ř	ɾ
+ţ	tʲ
+ū	uː
+ŭ	u
+ƫ	tʲ
+Ɂ	ʔ
+ɐ	ɐ
+ɑ	a
+ɑᵘ	ɑ w
+ɔ	ɔ
+ɔ́	ɔ
+ə	ə
+ɛ	ɛ
+ɛ:	ɛː
+ɛ́	ɛ
+ɡ	ɡ
+ɣ	ɣ
+ɤ	ɤ
+ɨ	ɨ
+ɨ́y	ɨ j
+ɩ	i
+ɪ	ɪ
+ɲ	ɲ
+ɳ	ɳ
+ɹ	ɹ
+ɽ	ɽ
+ɾ	ɾ
+ʀ	ʀ
+ʊ	ʊ
+ʔ	ʔ
+ˈk	ˀk
+ˈm	ˀm
+ˈp	ˀp
+ˈt	ˀt
+ˈt̪	ˀt
+ˈw	ˀw
+ˈy	ˀj
+ˈř	ʔ r
+˚	NULL
+˜a	ã
+β	β
+γ	ɣ
+δ	ð
+ᶁ	ɖ
+ḍ	ḍ/d
+Ḏ	Ḏ/ð
+ḏ	ɖ
+ḷ	ɭ
+ḻ	ɭ
+ḻw	ɭ w
+ṇ	ɳ
+ṉ	ɳ
+ṛ	ɹ
+ṟ	ɹ
+ṯ	ʈ
+‑	NULL
+–	NULL
+–$	NULL
+‘	ʔ
+‘n	n
+’	ʔ
+’w	ˀw
+“	NULL
+”	NULL
+†	NULL
+‹	NULL
+��	NULL
