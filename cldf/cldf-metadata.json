@@ -11,38 +11,38 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Computational Phylogenetics and the Internal Structure of Pama-Nyungan: Dataset",
+    "dc:title": "The Internal Structure of Pama-Nyungan",
     "dcat:accessURL": "https://github.com/lexibank/bowernpny",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/bowernpny",
-            "dc:created": "v2.0-4-g38eec14"
+            "dc:created": "v2.0-11-gabebb32"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/lingulist/glottolog-data",
+            "rdf:about": "https://github.com/glottolog/glottolog",
             "dc:created": "v4.0"
         },
         {
             "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4"
+            "dc:title": "Concepticon",
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
+            "dc:created": "v2.2.0"
         },
         {
             "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
-            "rdf:about": "https://github.com/concepticon/concepticon-data/",
-            "dc:created": "v2.1.0-109-g408e9f8"
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts",
+            "dc:created": "v1.4"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.5.2"
+            "dc:description": "3.7.3"
         },
         {
             "dc:title": "python-packages",
@@ -54,15 +54,6 @@
     "dialect": {
         "commentPrefix": null
     },
-    "notes": [
-        {
-            "dc:title": "environment",
-            "properties": {
-                "glottolog_version": "v4.0",
-                "concepticon_version": "v2.1.0"
-            }
-        }
-    ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
