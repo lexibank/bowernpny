@@ -1,6 +1,3 @@
-import re
-
-
 from clldutils.misc import slug
 from pathlib import Path
 from pylexibank.dataset import Dataset as BaseDataset
@@ -85,8 +82,6 @@ class Dataset(BaseDataset):
         for s, t in concept_replacements.items():
             concept_lookup[s] = concept_lookup[t]
 
-        braks = []
-
         singletons = 1
         for entry in pb(
                 self.raw_dir.read_csv(
@@ -106,7 +101,7 @@ class Dataset(BaseDataset):
                 Source=["Bowern2012"]
             ):
                 args.writer.add_cognate(
-                    lexeme = form,
+                    lexeme=form,
                     Cognateset_ID=cogid,
                     Source=['Bowern2012'],
                     )
