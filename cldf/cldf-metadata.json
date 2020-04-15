@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/bowernpny",
-            "dc:created": "v3.0-1-g04b3f40"
+            "dc:created": "v3.0-2-g766a7de"
         },
         {
             "rdf:type": "prov:Entity",
