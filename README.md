@@ -1,4 +1,4 @@
-# The Internal Structure of Pama-Nyungan
+# CLDF dataset derived from Bowern and Atkinson's "Internal Structure of Pama-Nyungan" from 2012
 
 Cite the source dataset as
 
@@ -32,3 +32,14 @@ Conceptlists in Concepticon:
 - **Tokens:** 272,449
 - **Segments:** 117 (0 BIPA errors, 0 CTLS sound class errors, 117 CLTS modified)
 - **Inventory size (avg):** 32.87
+
+# Contributors
+
+Name | GitHub user | Description | Role
+--- | --- | --- | --- |
+Tiago Tresoldi | @tresoldi | patron, orthography, concepts | Author
+Johann-Mattis List | @lingulist | concepts | Author
+Claire Bowern | @chirila | | Editor, Distributor
+Quentin Atkinson | | | Editor
+
+
