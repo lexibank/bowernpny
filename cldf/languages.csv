@@ -7,7 +7,7 @@ Arabana,Arabana,arab1267,Arabana,ard,Australia,-28.705,135.449,Pama-Nyungan
 Awabakal,Awabakal,awab1243,Awabakal,awk,Australia,-33.12847,151.43555,Pama-Nyungan
 Badimaya,Badimaya,badi1246,Badimaya,bia,Australia,-29.0647,117.246,Pama-Nyungan
 Badjiri,Badjiri,badj1244,Badjiri,jbi,Australia,-27.33,143.0,Pama-Nyungan
-Bandjalang,Bandjalang,band1358,Bandjalang,,,,,Pama-Nyungan
+Bandjalang,Bandjalang,band1358,Bandjalang,,Australia,,,Pama-Nyungan
 Batyala,Batyala,baty1234,Batyala,xby,Australia,,,Pama-Nyungan
 BidyaraGungabula,Bidyara-Gungabula,sout2765,Southern Maric,,,,,Pama-Nyungan
 Bilinarra,Bilinarra,bili1250,Bilinara,,Australia,-16.868771,130.533991,Pama-Nyungan
@@ -43,7 +43,7 @@ GoorengGooreng,Gooreng Gooreng,gure1255,Gureng Gureng,gnr,Australia,-25.3893,151
 Gudjal,Gudjal,gudj1237,Gudjal,,Australia,-19.44157406,144.6482584,Pama-Nyungan
 Gumatj,Gumatj,guma1253,Gumatj,gnn,Australia,-12.25254,136.83042,Pama-Nyungan
 Gumbaynggir,Gumbaynggir,kumb1268,Kumbainggar,kgs,Australia,-29.8189,152.913,Pama-Nyungan
-Gunditjmara,Gunditjmara,gund1249,Kurnkopanut,,Australia,,,Pama-Nyungan
+Gunditjmara,Gunditjmara,gund1249,Kurnkopanut,wkr,Australia,,,Pama-Nyungan
 Gundungurra,Gundungurra,nort2760,Northern Inland Yui,,Australia,-34.85,149.1,Pama-Nyungan
 Gunggari,Gunggari,kung1258,Kunggari,kgl,Australia,-24.2182,143.222,Pama-Nyungan
 Gunya,Gunya,guny1241,Gunya,gyy,Australia,-27.0642,145.862,Pama-Nyungan
@@ -66,9 +66,9 @@ Kariyarra,Kariyarra,kari1304,Kariyarra,vka,Australia,-20.445,118.613,Pama-Nyunga
 Karree,Karree,,,,,,,
 Kartujarra,Kartujarra,kart1247,Kartujarra,,Australia,,,Pama-Nyungan
 Karuwali,Karuwali,karr1236,Karruwali,rxw,Australia,,,Pama-Nyungan
-Katthang,Katthang,gath1234,Gathang,,,,,Pama-Nyungan
+Katthang,Katthang,gath1234,Gathang,,Australia,,,Pama-Nyungan
 Kaurna,Kaurna,kaur1267,Kaurna,zku,Australia,-34.34966141,138.4800794,Pama-Nyungan
-Keramin,Keramin,kera1256,Keramin,,,,,Pama-Nyungan
+Keramin,Keramin,kera1256,Keramin,,Australia,,,Pama-Nyungan
 KuguNganhcara,Kugu Nganhcara,kuku1280,Kuku-Uwan,uwa,Australia,-14.0756,141.724,Pama-Nyungan
 Kukatj,Kukatj,guga1239,Gugadj,ggd,Australia,-17.8372,141.168,Pama-Nyungan
 Kukatja,Kukatja,kuka1246,Kukatja,kux,Australia,-20.3321,127.666,Pama-Nyungan
@@ -88,7 +88,7 @@ Malyangapa,Malyangapa,maly1234,Malyangapa,yga,Australia,-29.43,142.0,Pama-Nyunga
 MangalaMcK,MangalaMcK,,,,,,,
 MangalaNW,MangalaNW,,,,,,,
 Margany,Margany,marg1253,Margany,zmc,Australia,-26.789,144.892,Pama-Nyungan
-MartuWangka,Martu Wangka,mart1256,Martu Wangka,mpj,Australia,-24.3194,121.954,Pama-Nyungan
+MartuWangka,Martu Wangka,mart1256,Martu Wangka,mpj,Australia,-23.350911655789,123.66842240336,Pama-Nyungan
 MaryRiverandBunyaBunyaCountry,Mary River and Bunya Bunya Country,,,,,,,
 MathiMathi,Mathi-Mathi,madh1244,Madhi Madhi,dmd,Australia,-34.5,143.5,Pama-Nyungan
 MayiKulan,Mayi-Kulan,mayi1236,Mayi-Kulan,xyk,Australia,-18.56,141.46,Pama-Nyungan
@@ -108,9 +108,9 @@ Narrungga,Narrungga,naru1238,Narungga,nnr,Australia,-34.69,137.535,Pama-Nyungan
 NggoiMwoi,Ng'goi Mwoi,,,,,,,
 Ngaanyatjarra,Ngaanyatjarra,ngaa1240,Ngaanyatjarra,ntj,Australia,-25.7514,127.602,Pama-Nyungan
 Ngadjumaya,Ngadjumaya,ngad1258,Ngadjunmaya,nju,Australia,-32.02447,124.46601,Pama-Nyungan
-Ngadjuri,Ngadjuri,ngad1257,Ngadjuri,,Australia,,,Pama-Nyungan
-Ngaiawang,Ngaiawang,lowe1402,Lower Riverland,,Australia,,,Pama-Nyungan
-Ngamini,Ngamini,ngam1284,Ngamini,,,,,Pama-Nyungan
+Ngadjuri,Ngadjuri,ngad1257,Ngadjuri,jui,Australia,-32.930160660336,139.08123163651,Pama-Nyungan
+Ngaiawang,Ngaiawang,lowe1402,Lower Riverland,,Australia,-34.6,140.5,Pama-Nyungan
+Ngamini,Ngamini,ngam1284,Ngamini,,Australia,,,Pama-Nyungan
 Ngardily,Ngardily,nort2753,North-western Warlpiri,,Australia,,,Pama-Nyungan
 Ngarigu,Ngarigu,ngar1297,Ngarigu,xni,Australia,-36.23,149.13,Pama-Nyungan
 Ngarinyman,Ngarinyman,ngar1235,Ngarinman,nbj,Australia,-15.4661,130.651,Pama-Nyungan
@@ -170,7 +170,7 @@ WesternArrarnta,Western Arrarnta,west2441,Western Arrarnta,are,Australia,-24.050
 WikMungkan,Wik Mungkan,wikm1247,Wik-Mungkan,wim,Australia,-13.98051,141.81611,Pama-Nyungan
 Wiradjuri,Wiradjuri,wira1262,Wiradhuri,wrh,Australia,-34.0742,145.994,Pama-Nyungan
 Wirangu,Wirangu,wira1265,Wirangu-Nauo,wgu,Australia,-32.0,134.0,Pama-Nyungan
-Woiwurrung,Woiwurrung,woiw1238,Woiwurrung,,,,,Pama-Nyungan
+Woiwurrung,Woiwurrung,woiw1238,Woiwurrung,,Australia,,,Pama-Nyungan
 Wulguru,Wulguru,wulg1239,Wulguru,qgu,Australia,-19.85103121,146.3453957,Pama-Nyungan
 YabulaYabula,Yabula Yabula,yabu1234,Yabula Yabula,yxy,Australia,,,Pama-Nyungan
 Yagara,Yagara,yaga1262,Yagara,yxg,Australia,,,Pama-Nyungan
@@ -183,7 +183,7 @@ Yawarrawarrka,Yawarrawarrka,yawa1258,Yawarawarga,yww,Australia,-26.7334,140.871,
 Yidiny,Yidiny,yidi1250,Yidiñ,yii,Australia,-17.1332,145.876,Pama-Nyungan
 Yindjibarndi,Yindjibarndi,yind1247,Yindjibarndi,yij,Australia,-21.5379,117.001,Pama-Nyungan
 Yindjilandji,Yindjilandji,yind1248,Yindjilandji,yil,Australia,-19.24252,137.5894,Pama-Nyungan
-Yiningay,Yiningay,bidy1243,Bidyara,bym,Australia,-25.555,146.147,Pama-Nyungan
+Yiningay,Yiningay,bidy1243,Bidyara,bym,Australia,-25.192664,147.273359,Pama-Nyungan
 Yirandali,Yirandali,yira1239,Yirandhali,ljw,Australia,-20.65810118,143.9625916,Pama-Nyungan
 YortaYorta,Yorta Yorta,yort1237,Yorta Yorta,xyy,Australia,-35.9,145.01,Pama-Nyungan
 Yugambeh,Yugambeh,yuga1244,Yugambal,yub,Australia,-27.803,153.082,Pama-Nyungan
