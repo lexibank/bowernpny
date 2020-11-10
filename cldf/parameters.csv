@@ -251,7 +251,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 252_short,short,1645,SHORT
 253_shoulder,shoulder,1482,SHOULDER
 254_show,show,1039,SHOW
-255_shyashamed,shy/ashamed,487,SHY
+255_shyashamed,shy/ashamed,3805,SHY OR ASHAMED
 256_sing,sing,1261,SING
 257_sit,sit,1416,SIT
 258_skin,skin,763,SKIN
@@ -290,7 +290,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 292_that,that,78,THAT
 294_they,they,817,THEY
 295_thick,thick,1244,THICK
-296_thigh,thigh,800,THIGH
+296_thigh,thigh,471,UPPER LEG (THIGH)
 297_thin,thin,2308,THIN
 298_think,think,2271,THINK
 299_thirsty,thirsty,847,THIRSTY

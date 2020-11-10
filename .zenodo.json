@@ -1,0 +1,40 @@
+{
+    "title": "CLDF dataset derived from Bowern and Atkinson's \"Internal Structure of Pama-Nyungan\" from 2012",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Tiago Tresoldi"
+        },
+        {
+            "name": "Johann-Mattis List"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Claire Bowern",
+            "type": "Editor"
+        },
+        {
+            "name": "Claire Bowern",
+            "type": "Distributor"
+        },
+        {
+            "name": "Quentin Atkinson",
+            "type": "Editor"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Bowern, Claire, &amp; Atkinson, Quentin. (2012). Computational Phylogenetics and the Internal Structure of Pama-Nyungan: Dataset [Data set]. Language. http://doi.org/10.1353/lan.2012.0081</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
