@@ -1,6 +1,7 @@
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
-Tiago Tresoldi | @tresoldi | maintainer
-Johann-Mattis List | @lingulist | maintainer
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Tiago Tresoldi | @tresoldi| maintainer| Other
+Johann-Mattis List | @lingulist | maintainer | Other
+Claire Bowern | | original data | Author

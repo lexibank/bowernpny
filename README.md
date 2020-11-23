@@ -13,6 +13,7 @@ Conceptlists in Concepticon:
 - [Bowern-2017-348](https://concepticon.clld.org/contributions/Bowern-2017-348)
 ## Statistics
 
+
 [![Build Status](https://travis-ci.org/lexibank/bowernpny.svg?branch=master)](https://travis-ci.org/lexibank/bowernpny)
 ![Glottolog: 95%](https://img.shields.io/badge/Glottolog-95%25-green.svg "Glottolog: 95%")
 ![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-green.svg "Concepticon: 99%")
@@ -29,5 +30,14 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.34
 - **Invalid lexemes:** 0
 - **Tokens:** 272,449
-- **Segments:** 117 (0 BIPA errors, 0 CTLS sound class errors, 117 CLTS modified)
-- **Inventory size (avg):** 32.87
+- **Segments:** 116 (0 BIPA errors, 0 CTLS sound class errors, 116 CLTS modified)
+- **Inventory size (avg):** 32.84
+
+# Contributors
+
+Name | GitHub user | Role
+--- | --- | ---
+Tiago Tresoldi | @tresoldi | maintainer
+Johann-Mattis List | @lingulist | maintainer
+
+

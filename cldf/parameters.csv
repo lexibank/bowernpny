@@ -33,7 +33,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 32_ask,ask,1309,ASK (INQUIRE)
 33_at,at,1461,AT
 34_back,back,1291,BACK
-35_badevil,bad/evil,45,EVIL
+35_badevil,bad/evil,3764,BAD OR EVIL
 36_bag,bag,2468,BAG
 37_bandicoot,bandicoot,3012,BANDICOOT
 38_bat,bat,1793,BAT
@@ -120,7 +120,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 120_father,father,1217,FATHER
 121_fathersfather,father's father,2560,PATERNAL GRANDFATHER
 122_fathersmother,father's mother,3015,PATERNAL GRANDMOTHER
-123_fatherssister,father's sister,170,FATHER'S SISTER
+123_fatherssister,father's sister,2691,PATERNAL AUNT (FATHER'S SISTER)
 124_fear,fear,1419,FEAR (BE AFRAID)
 125_feather,feather,1201,FEATHER
 126_feces,feces,675,FAECES (EXCREMENT)
@@ -197,7 +197,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 197_moon,moon,1313,MOON
 198_mosquito,mosquito,1509,MOSQUITO
 199_mother,mother,1216,MOTHER
-200_mothersbrother,mother's brother,1984,MOTHER'S BROTHER
+200_mothersbrother,mother's brother,2692,MATERNAL UNCLE (MOTHER'S BROTHER)
 201_mothersfather,mother's father,2178,MATERNAL GRANDFATHER
 202_mothersmother,mother's mother,2177,MATERNAL GRANDMOTHER
 203_mouse,mouse,1491,MOUSE
@@ -251,7 +251,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 252_short,short,1645,SHORT
 253_shoulder,shoulder,1482,SHOULDER
 254_show,show,1039,SHOW
-255_shyashamed,shy/ashamed,487,SHY
+255_shyashamed,shy/ashamed,3805,SHY OR ASHAMED
 256_sing,sing,1261,SING
 257_sit,sit,1416,SIT
 258_skin,skin,763,SKIN
@@ -290,7 +290,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 292_that,that,78,THAT
 294_they,they,817,THEY
 295_thick,thick,1244,THICK
-296_thigh,thigh,800,THIGH
+296_thigh,thigh,471,UPPER LEG (THIGH)
 297_thin,thin,2308,THIN
 298_think,think,2271,THINK
 299_thirsty,thirsty,847,THIRSTY

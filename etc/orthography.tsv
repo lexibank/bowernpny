@@ -45,6 +45,7 @@ $	NULL
 *	NULL
 *w	w
 +	+
+^-	NULL
 -	+
 -$	NULL
 .	+
@@ -108,7 +109,7 @@ Z	Z/ʒ
 ^-	NULL
 ^.	+
 ^–	NULL
-_	_
+_	+
 `	ʔ
 a	a
 a!	a
