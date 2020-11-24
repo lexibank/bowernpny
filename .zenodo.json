@@ -1,0 +1,33 @@
+{
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "title": "The Internal Structure of Pama-Nyungan",
+    "upload_type": "dataset",
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "creators": [
+        {
+            "name": "Claire Bowern"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
+    "access_right": "open",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Bowern, Claire, &amp; Atkinson, Quentin. (2012). Computational Phylogenetics and the Internal Structure of Pama-Nyungan: Dataset [Data set]. Language. http://doi.org/10.1353/lan.2012.0081</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

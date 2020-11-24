@@ -1,4 +1,21 @@
 Grapheme	IPA
+_	+
+_-_	+
+._	+
+_-	+
+-_	+
+_$	NULL
+^_	NULL
+__$	NULL
+___$	NULL
+__	+
+_>_	+
+-y_=$	NULL
+_^$	NULL
+_-_$	NULL
+._$	NULL
+_-$	NULL
+-_$	NULL
 m#	m
 u#	u
 ng#	ŋ
@@ -48,8 +65,13 @@ $	NULL
 ^-	NULL
 -	+
 -$	NULL
-.	+
 .$	NULL
+.	NULL
+__Y$	NULL
++$	NULL
+--$	NULL
+-¯$	NULL
+-y_$	NULL
 /	ʔ
 0	NULL
 1	ɪ
@@ -118,7 +140,7 @@ aa	aː
 aː	aː
 aᵐ	ã
 b	b
-b:	b:
+b:	bː
 bawuː	b a w uː
 bb	bː
 bh	β

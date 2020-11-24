@@ -22,6 +22,7 @@ class Dataset(BaseDataset):
                 ),
             brackets = {"(": ")", "{": "}", "[": "]"},
             strip_inside_brackets=True,
+            replacements=[(" ", "_")],
             first_form_only=True
             )
 

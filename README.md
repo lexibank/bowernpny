@@ -29,15 +29,16 @@ Conceptlists in Concepticon:
 - **Cognacy:** 44,876 cognates in 15,587 cognate sets (15,461 singletons)
 - **Cognate Diversity:** 0.34
 - **Invalid lexemes:** 0
-- **Tokens:** 272,449
+- **Tokens:** 272,214
 - **Segments:** 116 (0 BIPA errors, 0 CTLS sound class errors, 116 CLTS modified)
-- **Inventory size (avg):** 32.84
+- **Inventory size (avg):** 32.82
 
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
-Tiago Tresoldi | @tresoldi | maintainer
-Johann-Mattis List | @lingulist | maintainer
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Tiago Tresoldi | @tresoldi| maintainer| Other
+Johann-Mattis List | @lingulist | maintainer | Other
+Claire Bowern | | original data | Author
 
 
