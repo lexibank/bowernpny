@@ -11,14 +11,14 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "The Internal Structure of Pama-Nyungan",
+    "dc:title": "CLDF dataset derived from Bowern and Atkinson's \"Internal Structure of Pama-Nyungan\" from 2012",
     "dcat:accessURL": "https://github.com/lexibank/bowernpny",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/bowernpny",
-            "dc:created": "v2.0-11-g7c95539"
+            "dc:created": "v2.0-12-g02332af"
         },
         {
             "rdf:type": "prov:Entity",
@@ -42,7 +42,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.2"
+            "dc:description": "3.6.12"
         },
         {
             "dc:title": "python-packages",

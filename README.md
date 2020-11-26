@@ -1,4 +1,4 @@
-# The Internal Structure of Pama-Nyungan
+# CLDF dataset derived from Bowern and Atkinson's "Internal Structure of Pama-Nyungan" from 2012
 
 Cite the source dataset as
 
