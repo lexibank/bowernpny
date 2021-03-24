@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Bowern, Claire, & Atkinson, Quentin. (2012). Computational Phylogenetics and the Internal Structure of Pama-Nyungan: Dataset [Data set]. Language. http://doi.org/10.1353/lan.2012.0081
 
-This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://zenodo.org/record/1005671
 
