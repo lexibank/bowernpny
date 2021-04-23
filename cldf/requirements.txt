@@ -14,6 +14,7 @@ idna==2.10
 iniconfig==1.1.1
 isodate==0.6.0
 lingpy==2.6.7
+lxml==4.6.3
 Markdown==3.3.4
 networkx==2.5
 newick==1.0.0
@@ -43,5 +44,6 @@ termcolor==1.1.0
 tqdm==4.59.0
 uritemplate==3.0.1
 urllib3==1.26.4
+wcwidth==0.2.5
 xlrd==2.0.1
 zenodoclient==0.3.0
