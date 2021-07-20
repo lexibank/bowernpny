@@ -1,27 +1,21 @@
-from clldutils.misc import slug
-from pathlib import Path
-from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.util import getEvoBibAsBibtex
-from pylexibank import FormSpec
-from pylexibank import progressbar as pb
 from csv import QUOTE_NONE
+from pathlib import Path
+
+from clldutils.misc import slug
+import pylexibank
 
 
-class Dataset(BaseDataset):
+class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "bowernpny"
-    form_spec = FormSpec(
-            separators = ";,~/",
-            missing_data = (
-                "-",
-                "?",
-                "—"
-                ),
-            brackets = {"(": ")", "{": "}", "[": "]"},
-            strip_inside_brackets=True,
-            replacements=[(" ", "_")],
-            first_form_only=True
-            )
+    form_spec = pylexibank.FormSpec(
+        separators=";,~/",
+        missing_data=("-", "?", "—"),
+        brackets={"(": ")", "{": "}", "[": "]"},
+        strip_inside_brackets=True,
+        replacements=[(" ", "_")],
+        first_form_only=True,
+    )
 
     def cmd_makecldf(self, args):
         # corrections to the data in concepticon
@@ -73,42 +67,33 @@ class Dataset(BaseDataset):
 
         args.writer.add_sources()
         language_lookup = args.writer.add_languages(
-                id_factory=lambda l: slug(l["Name"], lowercase=False),
-                lookup_factory='Name'
-                )
+            id_factory=lambda l: slug(l["Name"], lowercase=False), lookup_factory="Name"
+        )
         concept_lookup = args.writer.add_concepts(
-                id_factory=lambda x: x.id.split('-')[-1]+'_'+slug(x.english),
-                lookup_factory='Name'
-                )
+            id_factory=lambda x: x.id.split("-")[-1] + "_" + slug(x.english), lookup_factory="Name"
+        )
         for s, t in concept_replacements.items():
             concept_lookup[s] = concept_lookup[t]
 
         singletons = 1
-        for entry in pb(
-                self.raw_dir.read_csv(
-                    "bowernpny.tsv", 
-                    delimiter="\t",
-                    quoting=QUOTE_NONE,
-                    dicts=True)):
-            if entry['Code'] == '0':
+        for entry in pylexibank.progressbar(
+            self.raw_dir.read_csv("bowernpny.tsv", delimiter="\t", quoting=QUOTE_NONE, dicts=True)
+        ):
+            if entry["Code"] == "0":
                 cogid = singletons
                 singletons += 1
             else:
-                cogid = entry['Code']
+                cogid = entry["Code"]
             for form in args.writer.add_forms_from_value(
-                Language_ID=language_lookup[entry['Language']],
-                Parameter_ID=concept_lookup[entry['Gloss']],
-                Value=entry['Form'],
-                Source=["Bowern2012"]
+                Language_ID=language_lookup[entry["Language"]],
+                Parameter_ID=concept_lookup[entry["Gloss"]],
+                Value=entry["Form"],
+                Source=["Bowern2012"],
             ):
-                args.writer.add_cognate(
-                    lexeme=form,
-                    Cognateset_ID=cogid,
-                    Source=['Bowern2012'],
-                    )
+                args.writer.add_cognate(lexeme=form, Cognateset_ID=cogid, Source=["Bowern2012"])
 
     def cmd_download(self, args):
         self.raw_dir.download(
-            "https://zenodo.org/record/1005671/files/Pny2012Codes.tsv",
-            "bowernpny.tsv")
-        self.raw_dir.write("sources.bib", getEvoBibAsBibtex("Bowern2012"))
+            "https://zenodo.org/record/1005671/files/Pny2012Codes.tsv", "bowernpny.tsv"
+        )
+        self.raw_dir.write("sources.bib", pylexibank.getEvoBibAsBibtex("Bowern2012"))
