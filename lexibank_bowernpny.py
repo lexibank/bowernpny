@@ -83,7 +83,7 @@ class Dataset(pylexibank.Dataset):
                 cogid = singletons
                 singletons += 1
             else:
-                cogid = entry["Code"]
+                cogid = entry["Code"] + "-" + slug(entry["Gloss"])
             for form in args.writer.add_forms_from_value(
                 Language_ID=language_lookup[entry["Language"]],
                 Parameter_ID=concept_lookup[entry["Gloss"]],
