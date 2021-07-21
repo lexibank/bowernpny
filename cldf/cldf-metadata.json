@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/bowernpny",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0-15-ga7ea4f2",
+            "dc:created": "v3.0-17-gdada5f8",
             "dc:title": "Repository"
         },
         {
@@ -29,7 +29,7 @@
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.4.0-237-gf65e4b1",
+            "dc:created": "v2.5.0",
             "dc:title": "Concepticon"
         },
         {
