@@ -24,13 +24,13 @@ Conceptlists in Concepticon:
 
 [![CLDF validation](https://github.com/lexibank/bowernpny/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/bowernpny/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 95%](https://img.shields.io/badge/Glottolog-95%25-green.svg "Glottolog: 95%")
-![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-green.svg "Concepticon: 99%")
+![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-brightgreen.svg "Concepticon: 99%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 190
-- **Concepts:** 344
+- **Varieties:** 190 (linked to 172 different Glottocodes)
+- **Concepts:** 344 (linked to 341 different Concepticon concept sets)
 - **Lexemes:** 44,876
 - **Sources:** 1
 - **Synonymy:** 1.00
@@ -38,16 +38,17 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.66
 - **Invalid lexemes:** 0
 - **Tokens:** 272,214
-- **Segments:** 116 (0 BIPA errors, 0 CTLS sound class errors, 116 CLTS modified)
+- **Segments:** 116 (0 BIPA errors, 0 CLTS sound class errors, 116 CLTS modified)
 - **Inventory size (avg):** 32.82
 
 # Contributors
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Tiago Tresoldi | @tresoldi| maintainer| Other
-Johann-Mattis List | @lingulist | maintainer | Other
 Claire Bowern | | original data | Author
+Tiago Tresoldi | @tresoldi| code, profile | Other
+Johann-Mattis List | @lingulist | maintainer | Editor
+Christoph Rzymski | @chrzyki | maintainer | Editor
 
 
 

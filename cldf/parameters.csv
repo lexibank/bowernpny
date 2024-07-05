@@ -7,7 +7,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 6_brolga,Brolga,,
 7_carpetsnake,Carpet snake,,
 8_crow,Crow,913,CROW
-9_deathadder,Death adder,,
+9_deathadder,Death adder,2654,VIPER
 10_duck,Duck,1360,DUCK
 11_echidna,Echidna,3008,ECHIDNA
 12_emu,Emu,2817,EMU
@@ -53,7 +53,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 53_boilpimple,boil/pimple,1809,PIMPLE
 54_bone,bone,1394,BONE
 55_boomerangthrowingstick,boomerang/throwing stick,135,BOOMERANG
-56_bottomgrindingstone,bottom grinding stone,,
+56_bottomgrindingstone,bottom grinding stone,3023,BOTTOM GRINDSTONE
 57_boy,boy,1366,BOY
 58_breakintr,break (intr),3020,BREAK (BREAKING)
 59_breast,breast,1402,BREAST
@@ -83,7 +83,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 83_count,count,1420,COUNT
 84_crawl,crawl,96,CRAWL
 85_creek,creek,990,CREEK (TIDAL)
-86_crosscousin,cross cousin,,
+86_crosscousin,cross cousin,3162,CROSS-COUSIN
 87_cry,cry,1839,CRY
 88_cuthack,cut/hack,3889,CUT OR HACK
 89_dance,dance,1879,DANCE
@@ -307,7 +307,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 310_tomorrow,tomorrow,1329,TOMORROW
 311_tongue,tongue,1205,TONGUE
 312_tooth,tooth,1380,TOOTH
-313_topgrindingstone,top grinding stone,2459,GRINDSTONE
+313_topgrindingstone,top grinding stone,3022,TOP GRINDSTONE
 314_tree,tree,906,TREE
 315_turn,turn,1588,TURN
 316_turtle,turtle,112,TURTLE
