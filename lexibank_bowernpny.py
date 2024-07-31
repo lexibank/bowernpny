@@ -8,6 +8,8 @@ import pylexibank
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "bowernpny"
+    writer_options=dict(keep_languages=False, keep_parameters=False)
+
     form_spec = pylexibank.FormSpec(
         separators=";,~/",
         missing_data=("-", "?", "—"),

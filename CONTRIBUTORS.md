@@ -2,6 +2,7 @@
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Tiago Tresoldi | @tresoldi| maintainer| Other
-Johann-Mattis List | @lingulist | maintainer | Other
 Claire Bowern | | original data | Author
+Tiago Tresoldi | @tresoldi| code, profile | Other
+Johann-Mattis List | @lingulist | maintainer | Editor
+Christoph Rzymski | @chrzyki | maintainer | Editor
